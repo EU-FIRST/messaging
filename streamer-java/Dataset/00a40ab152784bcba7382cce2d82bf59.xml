@@ -1,0 +1,1483 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocumentCorpus xmlns="http://freekoders.org/latino">
+  <Features>
+    <Feature>
+      <Name>pubDate</Name>
+      <Value>2011-06-01 09:28:12 +02:00</Value>
+    </Feature>
+    <Feature>
+      <Name>title</Name>
+      <Value>NHC East Pacific Wallet 1 - No current storm</Value>
+    </Feature>
+    <Feature>
+      <Name>description</Name>
+      <Value>Advisories and graphics for NHC East Pacific Wallet 1</Value>
+    </Feature>
+    <Feature>
+      <Name>link</Name>
+      <Value>http://www.nhc.noaa.gov/</Value>
+    </Feature>
+    <Feature>
+      <Name>copyright</Name>
+      <Value>none</Value>
+    </Feature>
+    <Feature>
+      <Name>managingEditor</Name>
+      <Value>nhcwebmaster@noaa.gov (nhcwebmaster)</Value>
+    </Feature>
+    <Feature>
+      <Name>language</Name>
+      <Value>en-us</Value>
+    </Feature>
+    <Feature>
+      <Name>siteId</Name>
+      <Value>nhc.noaa</Value>
+    </Feature>
+    <Feature>
+      <Name>_provider</Name>
+      <Value>Latino.Workflows.TextMining.RssFeedComponent</Value>
+    </Feature>
+    <Feature>
+      <Name>_sourceUrl</Name>
+      <Value>http://www.nhc.noaa.gov/nhc_ep1.xml</Value>
+    </Feature>
+    <Feature>
+      <Name>_source</Name>
+      <Value>&lt;?xml version="1.0" encoding="iso-8859-1"?&gt;
+&lt;rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"&gt;
+&lt;channel&gt;
+&lt;pubDate&gt;Wed, 01 Jun 2011 07:28:12 GMT&lt;/pubDate&gt;
+&lt;title&gt;NHC East Pacific Wallet 1 - No current storm&lt;/title&gt;
+&lt;description&gt;Advisories and graphics for NHC East Pacific Wallet 1&lt;/description&gt;
+&lt;link&gt;http://www.nhc.noaa.gov/&lt;/link&gt;
+&lt;copyright&gt;none&lt;/copyright&gt;
+&lt;managingEditor&gt;nhcwebmaster@noaa.gov (nhcwebmaster)&lt;/managingEditor&gt;
+&lt;language&gt;en-us&lt;/language&gt;
+&lt;webMaster&gt;nhcwebmaster@noaa.gov (nhcwebmaster)&lt;/webMaster&gt;
+&lt;image&gt;
+&lt;url&gt;http://www.nhc.noaa.gov/gifs/xml_logo_nhc.gif&lt;/url&gt;
+&lt;link&gt;http://www.nhc.noaa.gov/&lt;/link&gt;
+&lt;description&gt;NOAA logo&lt;/description&gt;
+&lt;title&gt;NHC East Pacific Wallet 1 - No current storm&lt;/title&gt;
+&lt;width&gt;95&lt;/width&gt;
+&lt;height&gt;45&lt;/height&gt;
+&lt;/image&gt;
+&lt;item&gt;
+&lt;title&gt;No current storm in NHC East Pacific Wallet 1&lt;/title&gt;
+&lt;description&gt;No current storm in NHC EP1 as of Wed, 01 Jun 2011 07:28:12 GMT&lt;/description&gt;
+&lt;pubDate&gt;Wed, 01 Jun 2011 07:28:12 GMT&lt;/pubDate&gt;
+&lt;link&gt;http://www.nhc.noaa.gov/&lt;/link&gt;
+&lt;guid&gt;http://www.nhc.noaa.gov/&lt;/guid&gt;
+&lt;author&gt;nhcwebmaster@noaa.gov (nhcwebmaster)&lt;/author&gt;
+&lt;/item&gt;
+&lt;/channel&gt;
+&lt;/rss&gt;
+</Value>
+    </Feature>
+    <Feature>
+      <Name>_timeBetweenPolls</Name>
+      <Value>900000</Value>
+    </Feature>
+    <Feature>
+      <Name>_timeStart</Name>
+      <Value>2011-06-01 09:47:59 +02:00</Value>
+    </Feature>
+    <Feature>
+      <Name>_timeEnd</Name>
+      <Value>2011-06-01 09:48:02 +02:00</Value>
+    </Feature>
+  </Features>
+  <Documents>
+    <Document>
+      <Name>No current storm in NHC East Pacific Wallet 1</Name>
+      <Text>National Hurricane Center
+weather.gov
+Home
+News
+Organization
+Search
+Search by city or zip code. Press enter or select the go button to submit request
+Local forecast by
+"City, St" or "ZIP"
+Alternate versions
+Text-only | Mobile
+Get Storm Info
+Satellite | Radar
+Aircraft Recon
+Advisory Archive
+Experimental
+Mobile Products
+E-mail Updates
+Audio/Podcasts
+GIS Data | RSS
+Help with Advisories
+Marine Forecasts
+Atlantic and E Pacific
+Analysis Tools
+Gridded Marine
+Help with Marine
+Hurricane Awareness
+Be Prepared | Learn
+Storm Surge
+Frequent Questions
+Research
+Hurricane Hunters
+Saffir-Simpson Scale
+Forecasting Models
+Glossary/Acronyms
+Storm Names
+Breakpoints
+Hurricane History
+Seasons Archive
+Forecast Accuracy
+Climatology
+Most Extreme
+About the NHC
+Mission and Vision
+Personnel | Visitors
+NHC Virtual Tour
+Library
+Joint Hurr Testbed
+NCEP | Newsletter
+Contact Us
+Help
+Top News of the Day.....
+view past news
+Last update Wed, 1 Jun 2011 07:28:13 UTC
+NOAA's Climate Prediction Center Has Released the 2011 Atlantic and East Pacific Outlooks&lt;/a&gt;
+Read the May issue of the monthly Q &amp; A with NHC professionals
+Product Changes for the 2011 Hurricane Season (PDF)
+Eastern Pacific
+Atlantic
+Graphical Tropical Weather Outlook | Active Storms | Marine Forecasts
+Atlantic - Caribbean Sea - Gulf of Mexico
+Tropical Weather Outlook ( en Español *)
+200 AM EDT WED JUN 1 2011
+Tropical Weather Discussion
+205 AM EDT WED JUN 01 2011
+There are no tropical cyclones at this time.
+Eastern Pacific
+(out to 140°W)
+Tropical Weather Outlook
+1100 PM PDT TUE MAY 31 2011
+Tropical Weather Discussion
+0405 UTC WED JUN 1 2011
+There are no tropical cyclones at this time.
+* Spanish translations courtesy of the NWS San Juan Weather Forecast Office
+Hurricane Preparedness
+Learn about hurricane hazards and what you can do to help protect yourself, your family, and your
+property.
+Emergency Management Offices
+Alabama
+Arkansas
+California
+Connecticut
+Delaware
+Washington D.C.
+Florida
+Georgia
+Hawaii
+Kentucky
+Louisiana
+Maine
+Maryland
+Massachusetts
+Mississippi
+Missouri
+New Hampshire
+New Jersey
+New York
+North Carolina
+Oklahoma
+Pennsylvania
+Puerto Rico
+Rhode Island
+South Carolina
+Tennessee
+Texas
+Vermont
+Virgin Islands
+Virginia
+West Virginia
+Tropical Cyclone Centers Worldwide
+Central Pacific Hurricane Center
+Joint Typhoon Warning Center
+Canadian Hurricane Centre
+WMO Severe Weather Info Centre
+Lat/Lon Distance Calculator
+Find distance between latitude/longitude points
+Hurricane Season Dates
+Hurricane season in the Atlantic begins June 1st and ends November 30th. The Eastern Pacific hurricane season begins May 15th and also ends November 30th.
+2010 Season Summaries and Reports
+Atlantic:
+Jun
+Jul
+Aug
+Sep
+Oct
+Nov
+Tropical Cyclone Reports
+East Pacific:
+May
+Jun
+Jul
+Aug
+Sep
+Oct
+Nov
+Tropical Cyclone Reports
+Blank Tracking Charts
+New Atlantic and Eastern Pacific hurricane tracking charts are available for download.
+Additional Resources
+NHC Publications and Q &amp; A for NHC
+Radiofax Broadcast Schedule
+National Hurricane Operations Plan
+NHC External Links Index
+Hurricane and Natural Disaster Brochures
+Mariner's Guide for Hurricane Awareness
+NOAA Staff Directory
+Outreach Education &amp; Presentations
+WX4NHC Radio
+Quick Navigation Links:
+NHC Active Storms - Atlantic and E Pacific Marine - Storm Archives
+Hurricane Awareness - How to Prepare - About NHC - Contact Us
+NOAA/
+National Weather Service
+National Centers for Environmental Prediction
+National Hurricane Center
+11691 SW 17th Street
+Miami, Florida 33165-2149 USA
+nhcwebmaster@noaa.gov
+Disclaimer
+Credits
+Information Quality
+Glossary
+Privacy Policy
+Freedom of Information Act (FOIA)
+About Us
+Career Opportunities
+Page last modified: Friday, 20-May-2011 14:07:50 UTC</Text>
+      <Annotations>
+        <Annotation>
+          <Id>0</Id>
+          <SpanStart>0</SpanStart>
+          <SpanEnd>24</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>1</Id>
+          <SpanStart>27</SpanStart>
+          <SpanEnd>37</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>2</Id>
+          <SpanStart>40</SpanStart>
+          <SpanEnd>43</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>3</Id>
+          <SpanStart>46</SpanStart>
+          <SpanEnd>49</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>4</Id>
+          <SpanStart>52</SpanStart>
+          <SpanEnd>63</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>5</Id>
+          <SpanStart>66</SpanStart>
+          <SpanEnd>71</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>6</Id>
+          <SpanStart>74</SpanStart>
+          <SpanEnd>154</SpanEnd>
+          <Type>Block/FullText</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>7</Id>
+          <SpanStart>157</SpanStart>
+          <SpanEnd>173</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>8</Id>
+          <SpanStart>176</SpanStart>
+          <SpanEnd>194</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>9</Id>
+          <SpanStart>197</SpanStart>
+          <SpanEnd>214</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>10</Id>
+          <SpanStart>217</SpanStart>
+          <SpanEnd>234</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>11</Id>
+          <SpanStart>237</SpanStart>
+          <SpanEnd>250</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>12</Id>
+          <SpanStart>253</SpanStart>
+          <SpanEnd>269</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>13</Id>
+          <SpanStart>272</SpanStart>
+          <SpanEnd>285</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>14</Id>
+          <SpanStart>288</SpanStart>
+          <SpanEnd>303</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>15</Id>
+          <SpanStart>306</SpanStart>
+          <SpanEnd>317</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>16</Id>
+          <SpanStart>320</SpanStart>
+          <SpanEnd>334</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>17</Id>
+          <SpanStart>337</SpanStart>
+          <SpanEnd>350</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>18</Id>
+          <SpanStart>353</SpanStart>
+          <SpanEnd>366</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>19</Id>
+          <SpanStart>369</SpanStart>
+          <SpanEnd>382</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>20</Id>
+          <SpanStart>385</SpanStart>
+          <SpanEnd>404</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>21</Id>
+          <SpanStart>407</SpanStart>
+          <SpanEnd>422</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>22</Id>
+          <SpanStart>425</SpanStart>
+          <SpanEnd>446</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>23</Id>
+          <SpanStart>449</SpanStart>
+          <SpanEnd>462</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>24</Id>
+          <SpanStart>465</SpanStart>
+          <SpanEnd>478</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>25</Id>
+          <SpanStart>481</SpanStart>
+          <SpanEnd>496</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>26</Id>
+          <SpanStart>499</SpanStart>
+          <SpanEnd>517</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>27</Id>
+          <SpanStart>520</SpanStart>
+          <SpanEnd>538</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>28</Id>
+          <SpanStart>541</SpanStart>
+          <SpanEnd>551</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>29</Id>
+          <SpanStart>554</SpanStart>
+          <SpanEnd>571</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>30</Id>
+          <SpanStart>574</SpanStart>
+          <SpanEnd>581</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>31</Id>
+          <SpanStart>584</SpanStart>
+          <SpanEnd>600</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>32</Id>
+          <SpanStart>603</SpanStart>
+          <SpanEnd>622</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>33</Id>
+          <SpanStart>625</SpanStart>
+          <SpanEnd>642</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>34</Id>
+          <SpanStart>645</SpanStart>
+          <SpanEnd>661</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>35</Id>
+          <SpanStart>664</SpanStart>
+          <SpanEnd>674</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>36</Id>
+          <SpanStart>677</SpanStart>
+          <SpanEnd>687</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>37</Id>
+          <SpanStart>690</SpanStart>
+          <SpanEnd>706</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>38</Id>
+          <SpanStart>709</SpanStart>
+          <SpanEnd>723</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>39</Id>
+          <SpanStart>726</SpanStart>
+          <SpanEnd>742</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>40</Id>
+          <SpanStart>745</SpanStart>
+          <SpanEnd>755</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>41</Id>
+          <SpanStart>758</SpanStart>
+          <SpanEnd>769</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>42</Id>
+          <SpanStart>772</SpanStart>
+          <SpanEnd>784</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>43</Id>
+          <SpanStart>787</SpanStart>
+          <SpanEnd>804</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>44</Id>
+          <SpanStart>807</SpanStart>
+          <SpanEnd>826</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>45</Id>
+          <SpanStart>829</SpanStart>
+          <SpanEnd>844</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>46</Id>
+          <SpanStart>847</SpanStart>
+          <SpanEnd>853</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>47</Id>
+          <SpanStart>856</SpanStart>
+          <SpanEnd>873</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>48</Id>
+          <SpanStart>876</SpanStart>
+          <SpanEnd>892</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>49</Id>
+          <SpanStart>895</SpanStart>
+          <SpanEnd>904</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>50</Id>
+          <SpanStart>907</SpanStart>
+          <SpanEnd>910</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>51</Id>
+          <SpanStart>913</SpanStart>
+          <SpanEnd>936</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>52</Id>
+          <SpanStart>939</SpanStart>
+          <SpanEnd>952</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>53</Id>
+          <SpanStart>955</SpanStart>
+          <SpanEnd>994</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>54</Id>
+          <SpanStart>997</SpanStart>
+          <SpanEnd>1089</SpanEnd>
+          <Type>Block/Headline</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>55</Id>
+          <SpanStart>1092</SpanStart>
+          <SpanEnd>1153</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>56</Id>
+          <SpanStart>1156</SpanStart>
+          <SpanEnd>1206</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>57</Id>
+          <SpanStart>1209</SpanStart>
+          <SpanEnd>1223</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>58</Id>
+          <SpanStart>1226</SpanStart>
+          <SpanEnd>1233</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>59</Id>
+          <SpanStart>1236</SpanStart>
+          <SpanEnd>1304</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>60</Id>
+          <SpanStart>1307</SpanStart>
+          <SpanEnd>1347</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>61</Id>
+          <SpanStart>1350</SpanStart>
+          <SpanEnd>1389</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>62</Id>
+          <SpanStart>1392</SpanStart>
+          <SpanEnd>1416</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>63</Id>
+          <SpanStart>1419</SpanStart>
+          <SpanEnd>1445</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>64</Id>
+          <SpanStart>1448</SpanStart>
+          <SpanEnd>1473</SpanEnd>
+          <Type>Block/UserComment</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>65</Id>
+          <SpanStart>1476</SpanStart>
+          <SpanEnd>1519</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>66</Id>
+          <SpanStart>1522</SpanStart>
+          <SpanEnd>1536</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>67</Id>
+          <SpanStart>1539</SpanStart>
+          <SpanEnd>1552</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>68</Id>
+          <SpanStart>1555</SpanStart>
+          <SpanEnd>1578</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>69</Id>
+          <SpanStart>1581</SpanStart>
+          <SpanEnd>1607</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>70</Id>
+          <SpanStart>1610</SpanStart>
+          <SpanEnd>1636</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>71</Id>
+          <SpanStart>1639</SpanStart>
+          <SpanEnd>1661</SpanEnd>
+          <Type>Block/UserComment</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>72</Id>
+          <SpanStart>1664</SpanStart>
+          <SpanEnd>1707</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>73</Id>
+          <SpanStart>1710</SpanStart>
+          <SpanEnd>1784</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>74</Id>
+          <SpanStart>1787</SpanStart>
+          <SpanEnd>1808</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>75</Id>
+          <SpanStart>1811</SpanStart>
+          <SpanEnd>1907</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>76</Id>
+          <SpanStart>1910</SpanStart>
+          <SpanEnd>1918</SpanEnd>
+          <Type>Block/FullText</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>77</Id>
+          <SpanStart>1921</SpanStart>
+          <SpanEnd>1948</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>78</Id>
+          <SpanStart>1951</SpanStart>
+          <SpanEnd>1957</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>79</Id>
+          <SpanStart>1960</SpanStart>
+          <SpanEnd>1967</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>80</Id>
+          <SpanStart>1970</SpanStart>
+          <SpanEnd>1979</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>81</Id>
+          <SpanStart>1982</SpanStart>
+          <SpanEnd>1992</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>82</Id>
+          <SpanStart>1995</SpanStart>
+          <SpanEnd>2002</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>83</Id>
+          <SpanStart>2005</SpanStart>
+          <SpanEnd>2019</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>84</Id>
+          <SpanStart>2022</SpanStart>
+          <SpanEnd>2028</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>85</Id>
+          <SpanStart>2031</SpanStart>
+          <SpanEnd>2037</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>86</Id>
+          <SpanStart>2040</SpanStart>
+          <SpanEnd>2045</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>87</Id>
+          <SpanStart>2048</SpanStart>
+          <SpanEnd>2055</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>88</Id>
+          <SpanStart>2058</SpanStart>
+          <SpanEnd>2066</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>89</Id>
+          <SpanStart>2069</SpanStart>
+          <SpanEnd>2073</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>90</Id>
+          <SpanStart>2076</SpanStart>
+          <SpanEnd>2083</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>91</Id>
+          <SpanStart>2086</SpanStart>
+          <SpanEnd>2098</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>92</Id>
+          <SpanStart>2101</SpanStart>
+          <SpanEnd>2111</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>93</Id>
+          <SpanStart>2114</SpanStart>
+          <SpanEnd>2121</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>94</Id>
+          <SpanStart>2124</SpanStart>
+          <SpanEnd>2136</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>95</Id>
+          <SpanStart>2139</SpanStart>
+          <SpanEnd>2148</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>96</Id>
+          <SpanStart>2151</SpanStart>
+          <SpanEnd>2158</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>97</Id>
+          <SpanStart>2161</SpanStart>
+          <SpanEnd>2174</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>98</Id>
+          <SpanStart>2177</SpanStart>
+          <SpanEnd>2184</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>99</Id>
+          <SpanStart>2187</SpanStart>
+          <SpanEnd>2198</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>100</Id>
+          <SpanStart>2201</SpanStart>
+          <SpanEnd>2211</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>101</Id>
+          <SpanStart>2214</SpanStart>
+          <SpanEnd>2225</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>102</Id>
+          <SpanStart>2228</SpanStart>
+          <SpanEnd>2241</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>103</Id>
+          <SpanStart>2244</SpanStart>
+          <SpanEnd>2252</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>104</Id>
+          <SpanStart>2255</SpanStart>
+          <SpanEnd>2259</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>105</Id>
+          <SpanStart>2262</SpanStart>
+          <SpanEnd>2268</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>106</Id>
+          <SpanStart>2271</SpanStart>
+          <SpanEnd>2284</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>107</Id>
+          <SpanStart>2287</SpanStart>
+          <SpanEnd>2294</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>108</Id>
+          <SpanStart>2297</SpanStart>
+          <SpanEnd>2309</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>109</Id>
+          <SpanStart>2312</SpanStart>
+          <SpanEnd>2345</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>110</Id>
+          <SpanStart>2348</SpanStart>
+          <SpanEnd>2379</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>111</Id>
+          <SpanStart>2382</SpanStart>
+          <SpanEnd>2409</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>112</Id>
+          <SpanStart>2412</SpanStart>
+          <SpanEnd>2436</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>113</Id>
+          <SpanStart>2439</SpanStart>
+          <SpanEnd>2468</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>114</Id>
+          <SpanStart>2471</SpanStart>
+          <SpanEnd>2497</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>115</Id>
+          <SpanStart>2500</SpanStart>
+          <SpanEnd>2546</SpanEnd>
+          <Type>Block/UserComment</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>116</Id>
+          <SpanStart>2549</SpanStart>
+          <SpanEnd>2570</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>117</Id>
+          <SpanStart>2573</SpanStart>
+          <SpanEnd>2726</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>118</Id>
+          <SpanStart>2729</SpanStart>
+          <SpanEnd>2761</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>119</Id>
+          <SpanStart>2764</SpanStart>
+          <SpanEnd>2772</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>120</Id>
+          <SpanStart>2775</SpanStart>
+          <SpanEnd>2777</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>121</Id>
+          <SpanStart>2780</SpanStart>
+          <SpanEnd>2782</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>122</Id>
+          <SpanStart>2785</SpanStart>
+          <SpanEnd>2787</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>123</Id>
+          <SpanStart>2790</SpanStart>
+          <SpanEnd>2792</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>124</Id>
+          <SpanStart>2795</SpanStart>
+          <SpanEnd>2797</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>125</Id>
+          <SpanStart>2800</SpanStart>
+          <SpanEnd>2802</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>126</Id>
+          <SpanStart>2805</SpanStart>
+          <SpanEnd>2828</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>127</Id>
+          <SpanStart>2831</SpanStart>
+          <SpanEnd>2843</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>128</Id>
+          <SpanStart>2846</SpanStart>
+          <SpanEnd>2848</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>129</Id>
+          <SpanStart>2851</SpanStart>
+          <SpanEnd>2853</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>130</Id>
+          <SpanStart>2856</SpanStart>
+          <SpanEnd>2858</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>131</Id>
+          <SpanStart>2861</SpanStart>
+          <SpanEnd>2863</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>132</Id>
+          <SpanStart>2866</SpanStart>
+          <SpanEnd>2868</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>133</Id>
+          <SpanStart>2871</SpanStart>
+          <SpanEnd>2873</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>134</Id>
+          <SpanStart>2876</SpanStart>
+          <SpanEnd>2878</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>135</Id>
+          <SpanStart>2881</SpanStart>
+          <SpanEnd>2904</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>136</Id>
+          <SpanStart>2907</SpanStart>
+          <SpanEnd>2927</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>137</Id>
+          <SpanStart>2930</SpanStart>
+          <SpanEnd>3015</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>138</Id>
+          <SpanStart>3018</SpanStart>
+          <SpanEnd>3037</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>139</Id>
+          <SpanStart>3040</SpanStart>
+          <SpanEnd>3073</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>140</Id>
+          <SpanStart>3076</SpanStart>
+          <SpanEnd>3102</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>141</Id>
+          <SpanStart>3105</SpanStart>
+          <SpanEnd>3138</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>142</Id>
+          <SpanStart>3141</SpanStart>
+          <SpanEnd>3164</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>143</Id>
+          <SpanStart>3167</SpanStart>
+          <SpanEnd>3206</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>144</Id>
+          <SpanStart>3209</SpanStart>
+          <SpanEnd>3247</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>145</Id>
+          <SpanStart>3250</SpanStart>
+          <SpanEnd>3269</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>146</Id>
+          <SpanStart>3272</SpanStart>
+          <SpanEnd>3305</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>147</Id>
+          <SpanStart>3308</SpanStart>
+          <SpanEnd>3319</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>148</Id>
+          <SpanStart>3322</SpanStart>
+          <SpanEnd>3344</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>149</Id>
+          <SpanStart>3347</SpanStart>
+          <SpanEnd>3412</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>150</Id>
+          <SpanStart>3415</SpanStart>
+          <SpanEnd>3475</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>151</Id>
+          <SpanStart>3478</SpanStart>
+          <SpanEnd>3482</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>152</Id>
+          <SpanStart>3485</SpanStart>
+          <SpanEnd>3508</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>153</Id>
+          <SpanStart>3511</SpanStart>
+          <SpanEnd>3555</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>154</Id>
+          <SpanStart>3558</SpanStart>
+          <SpanEnd>3582</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>155</Id>
+          <SpanStart>3585</SpanStart>
+          <SpanEnd>3604</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>156</Id>
+          <SpanStart>3607</SpanStart>
+          <SpanEnd>3635</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>157</Id>
+          <SpanStart>3638</SpanStart>
+          <SpanEnd>3658</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>158</Id>
+          <SpanStart>3661</SpanStart>
+          <SpanEnd>3670</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>159</Id>
+          <SpanStart>3673</SpanStart>
+          <SpanEnd>3679</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>160</Id>
+          <SpanStart>3682</SpanStart>
+          <SpanEnd>3700</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>161</Id>
+          <SpanStart>3703</SpanStart>
+          <SpanEnd>3710</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>162</Id>
+          <SpanStart>3713</SpanStart>
+          <SpanEnd>3726</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>163</Id>
+          <SpanStart>3729</SpanStart>
+          <SpanEnd>3761</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>164</Id>
+          <SpanStart>3764</SpanStart>
+          <SpanEnd>3771</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>165</Id>
+          <SpanStart>3774</SpanStart>
+          <SpanEnd>3793</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+        <Annotation>
+          <Id>166</Id>
+          <SpanStart>3796</SpanStart>
+          <SpanEnd>3847</SpanEnd>
+          <Type>Block/Boilerplate</Type>
+          <Features />
+        </Annotation>
+      </Annotations>
+      <Features>
+        <Feature>
+          <Name>title</Name>
+          <Value>No current storm in NHC East Pacific Wallet 1</Value>
+        </Feature>
+        <Feature>
+          <Name>description</Name>
+          <Value>No current storm in NHC EP1 as of Wed, 01 Jun 2011 07:28:12 GMT</Value>
+        </Feature>
+        <Feature>
+          <Name>pubDate</Name>
+          <Value>2011-06-01 09:28:12 +02:00</Value>
+        </Feature>
+        <Feature>
+          <Name>link</Name>
+          <Value>http://www.nhc.noaa.gov/</Value>
+        </Feature>
+        <Feature>
+          <Name>author</Name>
+          <Value>nhcwebmaster@noaa.gov (nhcwebmaster)</Value>
+        </Feature>
+        <Feature>
+          <Name>_mimeType</Name>
+          <Value>text/html</Value>
+        </Feature>
+        <Feature>
+          <Name>_contentType</Name>
+          <Value>Html</Value>
+        </Feature>
+        <Feature>
+          <Name>_charSet</Name>
+          <Value>iso-8859-1</Value>
+        </Feature>
+        <Feature>
+          <Name>_contentLength</Name>
+          <Value>41002</Value>
+        </Feature>
+        <Feature>
+          <Name>raw</Name>
+          <Value>CgoKCgoKCiAKICAKPCFET0NUWVBFIEhUTUwgUFVCTElDICItLy9XM0MvL0RURCBIVE1MIDQuMDEgVHJhbnNpdGlvbmFsLy9FTiI+CjxodG1sPgo8aGVhZD4KCiAgPHRpdGxlPk5hdGlvbmFsIEh1cnJpY2FuZSBDZW50ZXI8L3RpdGxlPgogIDxtZXRhIG5hbWU9IkRDLnRpdGxlIiBjb250ZW50PSJOYXRpb25hbCBIdXJyaWNhbmUgQ2VudGVyIj4KICA8bWV0YSBuYW1lPSJEQy5kZXNjcmlwdGlvbiIgY29udGVudD0iTmF0aW9uYWwgSHVycmljYW5lIENlbnRlciBIb21lIFBhZ2UiPgogIDxtZXRhIG5hbWU9IkRDLmNyZWF0b3IiIGNvbnRlbnQ9Ik5hdGlvbmFsIEh1cnJpY2FuZSBDZW50ZXIiPgogIDxtZXRhIG5hbWU9IkRDLmRhdGUuY3JlYXRlZCIgc2NoZW1lPSJJU084NjAxIiBjb250ZW50PSIyMDAxLTAxLTAxIj4KICA8bWV0YSBuYW1lPSJEQy5kYXRlLnJldmlld2VkIiBzY2hlbWU9IklTTzg2MDEiIGNvbnRlbnQ9IjIwMDUtMTItMDkiPgogIDxtZXRhIG5hbWU9IkRDLmxhbmd1YWdlIiBzY2hlbWU9IkRDVEVSTVMuUkZDMTc2NiIgY29udGVudD0iRU4tVVMiPgogIDxsaW5rIHJlbD0iYWx0ZXJuYXRlIiB0eXBlPSJhcHBsaWNhdGlvbi9yc3MreG1sIiB0aXRsZT0iTkhDIEF0bGFudGljIFdhbGxldCAxIC0gTm8gY3VycmVudCBzdG9ybSIgaHJlZj0iL25oY19hdDEueG1sIj4KPGxpbmsgcmVsPSJhbHRlcm5hdGUiIHR5cGU9ImFwcGxpY2F0aW9uL3Jzcyt4bWwiIHRpdGxlPSJOSEMgQXRsYW50aWMgV2FsbGV0IDIgLSBObyBjdXJyZW50IHN0b3JtIiBocmVmPSIvbmhjX2F0Mi54bWwiPgo8bGluayByZWw9ImFsdGVybmF0ZSIgdHlwZT0iYXBwbGljYXRpb24vcnNzK3htbCIgdGl0bGU9Ik5IQyBBdGxhbnRpYyBXYWxsZXQgMyAtIE5vIGN1cnJlbnQgc3Rvcm0iIGhyZWY9Ii9uaGNfYXQzLnhtbCI+CjxsaW5rIHJlbD0iYWx0ZXJuYXRlIiB0eXBlPSJhcHBsaWNhdGlvbi9yc3MreG1sIiB0aXRsZT0iTkhDIEF0bGFudGljIFdhbGxldCA0IC0gTm8gY3VycmVudCBzdG9ybSIgaHJlZj0iL25oY19hdDQueG1sIj4KPGxpbmsgcmVsPSJhbHRlcm5hdGUiIHR5cGU9ImFwcGxpY2F0aW9uL3Jzcyt4bWwiIHRpdGxlPSJOSEMgQXRsYW50aWMgV2FsbGV0IDUgLSBObyBjdXJyZW50IHN0b3JtIiBocmVmPSIvbmhjX2F0NS54bWwiPgo8bGluayByZWw9ImFsdGVybmF0ZSIgdHlwZT0iYXBwbGljYXRpb24vcnNzK3htbCIgdGl0bGU9Ik5IQyBFYXN0IFBhY2lmaWMgV2FsbGV0IDEgLSBObyBjdXJyZW50IHN0b3JtIiBocmVmPSIvbmhjX2VwMS54bWwiPgo8bGluayByZWw9ImFsdGVybmF0ZSIgdHlwZT0iYXBwbGljYXRpb24vcnNzK3htbCIgdGl0bGU9Ik5IQyBFYXN0IFBhY2lmaWMgV2FsbGV0IDIgLSBObyBjdXJyZW50IHN0b3JtIiBocmVmPSIvbmhjX2VwMi54bWwiPgo8bGluayByZWw9ImFsdGVybmF0ZSIgdHlwZT0iYXBwbGljYXRpb24vcnNzK3htbCIgdGl0bGU9Ik5IQyBFYXN0IFBhY2lmaWMgV2FsbGV0IDMgLSBObyBjdXJyZW50IHN0b3JtIiBocmVmPSIvbmhjX2VwMy54bWwiPgo8bGluayByZWw9ImFsdGVybmF0ZSIgdHlwZT0iYXBwbGljYXRpb24vcnNzK3htbCIgdGl0bGU9Ik5IQyBFYXN0IFBhY2lmaWMgV2FsbGV0IDQgLSBObyBjdXJyZW50IHN0b3JtIiBocmVmPSIvbmhjX2VwNC54bWwiPgo8bGluayByZWw9ImFsdGVybmF0ZSIgdHlwZT0iYXBwbGljYXRpb24vcnNzK3htbCIgdGl0bGU9Ik5IQyBFYXN0IFBhY2lmaWMgV2FsbGV0IDUgLSBObyBjdXJyZW50IHN0b3JtIiBocmVmPSIvbmhjX2VwNS54bWwiPgoKICA8bGluayByZWw9ImFsdGVybmF0ZSIgdHlwZT0iYXBwbGljYXRpb24vcnNzK3htbCIgdGl0bGU9Ik5IQyBBdGxhbnRpYyBSU1MiIGhyZWY9Ii9pbmRleC1hdC54bWwiPgogIDxsaW5rIHJlbD0iYWx0ZXJuYXRlIiB0eXBlPSJhcHBsaWNhdGlvbi9yc3MreG1sIiB0aXRsZT0iTkhDIEF0bGFudGljIFJTUyAoRXNwYSYjMjQxO29sKSIgaHJlZj0iL2luZGV4LWF0LXNwLnhtbCI+CiAgPGxpbmsgcmVsPSJhbHRlcm5hdGUiIHR5cGU9ImFwcGxpY2F0aW9uL3Jzcyt4bWwiIHRpdGxlPSJOSEMgRWFzdGVybiBQYWNpZmljIFJTUyIgaHJlZj0iL2luZGV4LWVwLnhtbCI+CiAgPGxpbmsgcmVsPSJhbHRlcm5hdGUiIHR5cGU9ImFwcGxpY2F0aW9uL3Jzcyt4bWwiIHRpdGxlPSJOSEMgRXhwZXJpbWVudGFsIFBvZGNhc3RzIiBocmVmPSIvYXVkaW8vaW5kZXhfcG9kY2FzdC54bWwiPgogIDxsaW5rIHJlbD0iYWx0ZXJuYXRlIiB0eXBlPSJhcHBsaWNhdGlvbi9yc3MreG1sIiB0aXRsZT0iTkhDIEV4cGVyaW1lbnRhbCBQb2RjYXN0cyAoRXNwYSYjMjQxO29sKSIgaHJlZj0iL2F1ZGlvL2luZGV4X3BvZGNhc3Rfc3AueG1sIj4KICA8bGluayByZWw9ImFsdGVybmF0ZSIgdHlwZT0iYXBwbGljYXRpb24vcnNzK3htbCIgdGl0bGU9Ik5IQyBHcmFwaGljYWwgT3V0bG9va3MiIGhyZWY9Ii9ndHdvLnhtbCI+CiAgPG1ldGEgaHR0cC1lcXVpdj0iUkVGUkVTSCIgY29udGVudD0iMTgwMCI+CgogIDxtZXRhIGh0dHAtZXF1aXY9IkNvbnRlbnQtVHlwZSIgY29udGVudD0idGV4dC9odG1sOyBjaGFyc2V0PWlzby04ODU5LTEiPgogIAogIDxsaW5rIGhyZWY9Ii9tYWluLmNzcyIgdHlwZT0idGV4dC9jc3MiIHJlbD0ic3R5bGVzaGVldCI+CiAgIAogICA8IS0tIFNldCB1cCB0aGUgdG9wIGJhbm5lcnMgLS0+CiAgIDxzdHlsZSB0eXBlPSJ0ZXh0L2NzcyI+CiAgIDwhLS0KICAgIC5ib2R5CiAgICB7CiAgICBtYXJnaW4tdG9wOiAwcHg7CiAgICBtYXJnaW4tcmlnaHQ6IDBweDsKICAgIG1hcmdpbi1ib3R0b206IDBweDsKICAgIG1hcmdpbi1sZWZ0OiAwcHgKICAgIH0KICAgIC0tPgoKICAgPCEtLQogICAudG9wYmFubmVyXzc4MAogICB7CiAgIGJhY2tncm91bmQtaW1hZ2U6dXJsKCcvZ2lmcy90b3BiYW5uZXJfNzgwLmpwZycpOwogICB9CiAgIC0tPgoKICAgPCEtLQogICAudG9wYmFubmVyXzExMzIKICAgewogICBiYWNrZ3JvdW5kLWltYWdlOnVybCgnL2dpZnMvdG9wYmFubmVyXzExMzIuanBnJyk7CiAgIH0KICAgLS0+CiAgICAKICAgPCEtLQogICAubmNlcF9ia2dybmQKICAgewogICBiYWNrZ3JvdW5kLWltYWdlOnVybCgnL2dpZnMvbmNlcF9ia2dybmQuanBnJyk7CiAgIH0KICAgLS0+CgogICA8IS0tCiAgIC5uYXZia2dybmQKICAgewogICBiYWNrZ3JvdW5kLWltYWdlOnVybCgnL2dpZnMvbmF2Ymtncm5kLmdpZicpOwogICB9CiAgIC0tPgogICA8L3N0eWxlPgo8L2hlYWQ+Cgo8IS0tIFNldCB0aGUgbWFpbiBiYWNrZ3JvdW5kIGltYWdlIChiYWNrZ3JvdW5kIHdpbGwgaGF2ZSB0aGUgTldTIHZlcnRpY2FsIGxvZ28pIC0tPgo8IS0tIFVzZSBhIGRpZmZlcmVudCBpbWFnZSBpZiB0aGUgcGFnZSBjb250ZW50cyBoYXMgYSBsYXJnZSBncmFwaGljIC0tPgoKPGJvZHkgYmFja2dyb3VuZD0iL2dpZnMvODAwX25hdmJhci5naWYiIGNsYXNzPSJib2R5IiBvbkxvYWQ9ImlmIChzZWxmICE9IHRvcCkgdG9wLmxvY2F0aW9uID0gc2VsZi5sb2NhdGlvbiI+CgoKPCEtLSBOb3cgbG9hZCB0aGUgY29ycmVjdCBzdGFuZGFyZCBOSEMgaGVhZGVyLCBiYXNlZCBvbiBwYWdlIGNvbnRlbnRzIC0tPgoKIDwhLS0gQmVnaW4gTkhDIHN0YW5kYXJkIGhlYWRlciAtLT4KPHRhYmxlIGNlbGxzcGFjaW5nPSIwIiBjZWxscGFkZGluZz0iMCIgd2lkdGg9Ijc4MCIgYm9yZGVyPSIwIiBjbGFzcz0idG9wYmFubmVyXzc4MCI+CiAgPHRib2R5PgogIDx0cj4KICAgIDx0ZCBhbGlnbj0icmlnaHQiIGhlaWdodD0iMTkiPjxhIGhyZWY9IiNjb250ZW50cyI+PGltZyBoZWlnaHQ9IjEiIGFsdD0iU2tpcCBOYXZpZ2F0aW9uIExpbmtzIiBzcmM9Ii9naWZzL3NraXBncmFwaGljLmdpZiIgd2lkdGg9IjEiIGJvcmRlcj0iMCI+PC9hPgogICAgICA8YSBocmVmPSJodHRwOi8vd3d3LndlYXRoZXIuZ292LyI+PHNwYW4gY2xhc3M9ImxpbmsiPndlYXRoZXIuZ292PC9zcGFuPjwvYT4mbmJzcDsmbmJzcDsmbmJzcDsKICAgIDwvdGQ+CiAgPC90cj4KICA8L3Rib2R5Pgo8L3RhYmxlPgo8dGFibGUgY2VsbHNwYWNpbmc9IjAiIGNlbGxwYWRkaW5nPSIwIiB3aWR0aD0iNzgwIiBib3JkZXI9IjAiPgogIDx0Ym9keT4KICA8dHI+CiAgICA8dGQgcm93c3Bhbj0iMiI+PGEgaHJlZj0iaHR0cDovL3d3dy5ub2FhLmdvdi8iPjxpbWcgaGVpZ2h0PSI3OCIgYWx0PSJOT0FBIGxvZ28gLSBDbGljayB0byBnbyB0byB0aGUgTk9BQSBob21lcGFnZSIgc3JjPSIvZ2lmcy9ub2FhbGVmdC5qcGciIHdpZHRoPSI4NSIgYm9yZGVyPSIwIj48L2E+PC90ZD4KICAgIDx0ZCBhbGlnbj0ibGVmdCI+PGltZyBoZWlnaHQ9IjIwIiBhbHQ9Ik5hdGlvbmFsIFdlYXRoZXIgU2VydmljZSIgc3JjPSIvZ2lmcy9ud3N0aXRsZV83ODAuanBnIiB3aWR0aD0iNjA3IiBib3JkZXI9IjAiPjwvdGQ+CiAgICA8dGQgcm93c3Bhbj0iMiIgd2lkdGg9IjEwMCUiIGNsYXNzPSJuY2VwX2JrZ3JuZCI+Jm5ic3A7PC90ZD4KICAgIDx0ZCByb3dzcGFuPSIyIiBhbGlnbj0icmlnaHQiPjxhIGhyZWY9Imh0dHA6Ly93d3cud2VhdGhlci5nb3YvIj48aW1nIGhlaWdodD0iNzgiIGFsdD0iTldTIGxvZ28gLSBDbGljayB0byBnbyB0byB0aGUgTldTIGhvbWVwYWdlIiBzcmM9Ii9naWZzL253c3JpZ2h0LmdpZiIgd2lkdGg9Ijg1IiBib3JkZXI9IjAiPjwvYT48L3RkPgogIDwvdHI+CiAgPHRyPgogICAgPCEtLSBQdXQgeW91ciBDZW50ZXIncyBoZWFkZXIgaW1hZ2UgaGVyZSAtLT4KICAgIDx0ZCBhbGlnbj0ibGVmdCI+PGEgaHJlZj0iL2luZGV4LnNodG1sIj48aW1nIGhlaWdodD0iNTgiIGFsdD0iTmF0aW9uYWwgSHVycmljYW5lIENlbnRlciIgc3JjPSIvZ2lmcy9uaGNfb2ZmaWNlbmFtZV83ODAuanBnIiB3aWR0aD0iNjA3IiBib3JkZXI9IjAiPjwvYT48L3RkPgogIDwvdHI+CiAgPC90Ym9keT4KPC90YWJsZT4KCjwhLS0gQmVnaW4gSG9tZSwgUHVibGljIEFmZmFpcnMsIE9yZ2FuaXphdGlvbiBsaW5rcyBhbmQgc2VhcmNoIGVuZ2luZSBjb2RlLS0+Cjx0YWJsZSBjZWxsc3BhY2luZz0iMCIgY2VsbHBhZGRpbmc9IjAiIGJvcmRlcj0iMCIgd2lkdGg9Ijc4MCIgY2xhc3M9Im5hdmJrZ3JuZCI+Cjx0cj4KPHRkIGFsaWduPSJsZWZ0IiB2YWxpZ249InRvcCIgd2lkdGg9Ijk0Ij48aW1nIHNyYz0iL2dpZnMvbmF2YmFybGVmdC5qcGciIGFsdD0iIiB3aWR0aD0iOTQiIGhlaWdodD0iMjMiIGJvcmRlcj0iMCI+PC90ZD4KPHRkIHdpZHRoPSIxMzUiIGFsaWduPSJjZW50ZXIiIG5vd3JhcD48YSBocmVmPSIvaW5kZXguc2h0bWwiIGNsYXNzPSJuYXZiYXIiPkhvbWU8L2E+PC90ZD4KPHRkIHdpZHRoPSIxMzUiIGFsaWduPSJjZW50ZXIiIG5vd3JhcD48YSBocmVmPSJodHRwOi8vd3d3LndlYXRoZXIuZ292L3BhLyIgY2xhc3M9Im5hdmJhciI+TmV3czwvYT48L3RkPgo8dGQgd2lkdGg9IjEzNSIgYWxpZ249ImNlbnRlciIgbm93cmFwPjxhIGhyZWY9Imh0dHA6Ly93d3cud2VhdGhlci5nb3Yvb3JnYW5pemF0aW9uLnBocCIgY2xhc3M9Im5hdmJhciI+T3JnYW5pemF0aW9uPC9hPjwvdGQ+Cjx0ZCB3aWR0aD0iMTAwJSIgYWxpZ249InJpZ2h0IiBjbGFzcz0ieWVsbG93Ij5TZWFyY2gmbmJzcDs8L3RkPgo8dGQgYWxpZ249InJpZ2h0IiB2YWxpZ249InRvcCIgd2lkdGg9Ijg1JSIgbm93cmFwPgogICA8Zm9ybSBtZXRob2Q9IlBPU1QiIGFjdGlvbj0iaHR0cDovL3NlYXJjaC51c2EuZ292L3NlYXJjaCIgc3R5bGU9Im1hcmdpbi1ib3R0b206MHB4OyBtYXJnaW4tdG9wOjBweDsiPgogICA8aW5wdXQgdHlwZT0iaGlkZGVuIiBuYW1lPSJhZmZpbGlhdGUiIHZhbHVlPSJud3Mubm9hYS5nb3YiPgogICA8aW5wdXQgdHlwZT0iaGlkZGVuIiBuYW1lPSJ2OnByb2plY3QiIHZhbHVlPSJmaXJzdGdvdiI+CiAgIDxpbnB1dCBjbGFzcz0ic2VhcmNoaW5wdXQiIG5hbWU9InF1ZXJ5IiB0eXBlPSJ0ZXh0IiB2YWx1ZT0iIiBzaXplPSIyMCIgbWF4bGVuZ3RoPSIyNTYiIGlkPSJTZWFyY2giIG9uZm9jdXM9InRoaXMudmFsdWU9Jyc7Ij4mbmJzcDsKICAgPGlucHV0IGNsYXNzPSJzZWFyY2hpbnB1dCIgdHlwZT0ic3VibWl0IiB2YWx1ZT0iR28iPgogICA8L2Zvcm0+CjwvdGQ+CjwhLS0gRW5kIHNlYXJjaCBlbmdpbmUgY29kZSAtLT4KCjx0ZCBhbGlnbj0icmlnaHQiIHZhbGlnbj0iYm90dG9tIiB3aWR0aD0iMjQiPjxpbWcgc3JjPSIvZ2lmcy9uYXZiYXJlbmRjYXAuanBnIiBhbHQ9IiIgd2lkdGg9IjI0IiBoZWlnaHQ9IjIzIiBib3JkZXI9IjAiPjwvdGQ+CjwvdHI+CjwvdGFibGU+CjwhLS0gRW5kIEhvbWUsIFB1YmxpYyBBZmZhaXJzLCBPcmdhbml6YXRpb24gbGlua3MgYW5kIHNlYXJjaCBlbmdpbmUgY29kZSAtLT4KPCEtLSBFbmQgTkhDIHN0YW5kYXJkIGhlYWRlciAtLT4KCgoKCgo8IS0tIENyZWF0ZSBtYWluIHRhYmxlIGZvciB0aGUgcGFnZSAoaGFzIHNpZGViYXIgJiB0aGUgcGFnZSBjb250ZW50cykgLS0+Cjx0YWJsZSBjZWxsU3BhY2luZz0iMCIgY2VsbFBhZGRpbmc9IjEiIHdpZHRoPSI3NDUiIGJvcmRlcj0iMCI+IDwhLS0gd2FzIDczMCAtLT4KICA8dGJvZHk+CiAgIDx0ciB2YWxpZ249InRvcCI+CiAgICA8IS0tIFNldCB0aGUgd2lkdGggb2YgdGhlIGxlZnQtc2lkZSBuYXZpZ2F0aW9uIGJhciAtLT4KICAgIDx0ZCB3aWR0aD0iMTQwIj4KIAogICAgPCEtLSBOb3cgbG9hZCB0aGUgc3RhbmRhcmQgTkhDIGxlZnQgc2lkZWJhciBtZW51ICh0b3ApIC0tPiAgIAogICAgPCEtLSBCZWdpbiBOSEMgc3RhbmRhcmQgbGVmdCBzaWRlYmFyIG1lbnUgdG9wIC0tPgo8dGFibGUgYmdjb2xvcj0iIzA5MjQ4YiIgY2VsbHNwYWNpbmc9IjAiIGNlbGxwYWRkaW5nPSIyIiB3aWR0aD0iMTMwIiBib3JkZXI9IjAiPgogIDx0Ym9keT4KICA8IS0tIE5hdGlvbndpZGUgQ2l0eSxTdC9aSVAgc2VhcmNoIC0tPgogICAgPHRyIGFsaWduPSJsZWZ0IiB2YWxpZ249InRvcCI+CiAgICA8dGQgY2xhc3M9InNlYXJjaGlucHV0IiBjb2xTcGFuPSIyIj4KICAgICAgPGRpdiBJRD0iTGF5ZXIyIiBTVFlMRT0icG9zaXRpb246YWJzb2x1dGU7IHdpZHRoOjIwMHB4OyBoZWlnaHQ6MTE1cHg7IHotaW5kZXg6MjsgdmlzaWJpbGl0eTogaGlkZGVuIj4KICAgICAgIFNlYXJjaCBieSBjaXR5IG9yIHppcCBjb2RlLiBQcmVzcyBlbnRlciBvciBzZWxlY3QgdGhlIGdvIGJ1dHRvbiB0byBzdWJtaXQgcmVxdWVzdDwvZGl2PgogICAgICA8Zm9ybSBtZXRob2Q9IlBPU1QiIGFjdGlvbj0iaHR0cDovL2ZvcmVjYXN0LndlYXRoZXIuZ292L3ppcGNpdHkucGhwIiBzdHlsZT0ibWFyZ2luLWJvdHRvbToycHg7Ij4KICAgICAgPHNwYW4gY2xhc3M9InllbGxvdyI+TG9jYWwgZm9yZWNhc3QgYnk8YnI+JnF1b3Q7Q2l0eSwgU3QmcXVvdDsgb3IgJnF1b3Q7WklQJnF1b3Q7PC9zcGFuPjxicj4KICAgICAgPCEtLSA8aW5wdXQgdHlwZT0idGV4dCIgbmFtZT0iaW5wdXRzdHJpbmciIHNpemU9IjgiIHZhbHVlPSJDaXR5LCBTdCIgb25Gb2N1cz0iaWYodGhpcy52YWx1ZT09J0NpdHksIFN0Jyl0aGlzLnZhbHVlPScnOyI+Jm5ic3A7IC0tPgogICAgICA8aW5wdXQgY2xhc3M9InNlYXJjaGlucHV0IiB0eXBlPSJ0ZXh0IiBuYW1lPSJpbnB1dHN0cmluZyIgc2l6ZT0iMTAiIHZhbHVlPSIiIG9uRm9jdXM9InRoaXMudmFsdWU9Jyc7Ij4mbmJzcDsKICAgICAgPGlucHV0IGNsYXNzPSJzZWFyY2hpbnB1dCIgdHlwZT0ic3VibWl0IiBuYW1lPSJHbzIiIHZhbHVlPSJHbyI+CiAgICA8L2Zvcm0+CiAgICA8L3RkPgogICAgPC90cj4KCjwhLS0gT2xkIExvY2FsIFNlYXJjaCwgZGlzYWJsZWQgMjUgSmFudWFyeSAyMDA2CiAgICA8dHI+CiAgICA8dGQgY2xhc3M9InNlYXJjaGlucHV0IiBhbGlnbj0ibGVmdCIgY29sc3Bhbj0iMiI+CiAgICA8Zm9ybSBhY3Rpb249Imh0dHA6Ly93d3cuZmlyc3Rnb3YuZ292L2Znc2VhcmNoL2luZGV4LmpzcCIgbmFtZT0icXVlcnkiIHN0eWxlPSJtYXJnaW4tYm90dG9tOjA7Ij4KICAgIDxsYWJlbCBmb3I9InNlYXJjaCI+PHNwYW4gY2xhc3M9InllbGxvdyI+U2VhcmNoIFRQQzwvc3Bhbj48L2xhYmVsPgogICAgPGlucHV0IHR5cGU9ImhpZGRlbiIgbmFtZT0icGFyc2VkIiB2YWx1ZT0idHJ1ZSI+CiAgICA8aW5wdXQgdHlwZT0iaGlkZGVuIiBuYW1lPSJybiIgdmFsdWU9IjMiPgogICAgPGlucHV0IHR5cGU9ImhpZGRlbiIgbmFtZT0iaW4wIiB2YWx1ZT0iZG9tYWluIj4KICAgIDxpbnB1dCB0eXBlPSJoaWRkZW4iIG5hbWU9ImRvbTAiIHZhbHVlPSJuaGMubm9hYS5nb3YiPgogICAgPGlucHV0IHR5cGU9InRleHQiIG5hbWU9Im13MCIgaWQ9InNlYXJjaCIgc2l6ZT0iMTIiIG1heGxlbmd0aD0iMjU2IiB2YWx1ZT0iVFBDIFNlYXJjaCIgb25Gb2N1cz0idGhpcy52YWx1ZT0nJzsiPiZuYnNwOyZuYnNwOzxpbnB1dCB0eXBlPSJzdWJtaXQiIG5hbWU9IkdvMiIgdmFsdWU9IkdvIj4KICAgIDwvdGQ+CiAgICA8L3RyPgogICAgPC9mb3JtPgotLT4KCjwhLS0gRW5kIHN0YW5kYXJkIE5IQyBsZWZ0IHNpZGViYXIgbWVudSB0b3AgLS0+CgoKCiAgICA8IS0tIEFkZCBhIGxpbmsgZm9yIFRleHQtb25seSBwYWdlcyAtLT4KICAgIDx0cj4KICAgIDx0ZCBjbGFzcz0id2hpdGUiIGlkPSJtZW51aXRlbSIgY29sc3Bhbj0iMiI+CiAgICAgICAgICAgPGEgaHJlZj0iL2Fib3V0YWx0ZXJuYXRlLnNodG1sIiBjbGFzcz0ibmF2YmFyIj48c3BhbiBjbGFzcz0ieWVsbG93Ij5BbHRlcm5hdGUgdmVyc2lvbnM8L3NwYW4+PC9hPjxicj4KICAgICAgICAgICAmbmJzcDsmbmJzcDsmbmJzcDs8YSBocmVmPSIvP3RleHQiPjxiPlRleHQtb25seTwvYj48L2E+IHwgPGEgaHJlZj0iL21vYmlsZS9pbmRleC5odG1sIiBjbGFzcz0ibmF2YmFyIj5Nb2JpbGU8L2E+CiAgICA8L3RkPgogICAgPC90cj4KCiAgICA8IS0tIE5vdyBsb2FkIHRoZSBzdGFuZGFyZCBOSEMgbGVmdCBzaWRlYmFyIG1lbnUgKGJvdHRvbSkgLS0+IAogICAgPCEtLSBMb2FkIGRpZmZlcmVudCBtZW51cyBiYXNlZCBvbiBwYWdlIGNvbnRlbnRzIC0tPgogICAgCiAgICAgIDwhLS0gQmVnaW4gc3RhbmRhcmQgTkhDIGxlZnQgc2lkZWJhciBtZW51IGJvdHRvbSAtLT4KPCEtLSBOT1RFOiBEb24ndCBmb3JnZXQgdG8gbWFrZSBhcHByb3ByaWF0ZSBjaGFuZ2VzIHRvIH4vYmxhbmtfcGFnZV90b3AucGhwIGZvciB0aGVzZSBzYW1lIGxpbmtzLiAtLT4KICAgIDx0cj4KICAgIDx0ZCBjbGFzcz0id2hpdGUiIGNvbHNwYW49IjIiPjxhIG5hbWU9InN0b3JtaW5mbyI+PC9hPgogICAgICA8YSBocmVmPSIvbmhjX3N0b3Jtcy5zaHRtbCIgY2xhc3M9Im5hdmJhciI+PHNwYW4gY2xhc3M9InllbGxvdyI+R2V0IFN0b3JtIEluZm88L3NwYW4+PC9hPjxicj4KICAgICAgJm5ic3A7Jm5ic3A7Jm5ic3A7PGEgaHJlZj0iL3NhdGVsbGl0ZS5zaHRtbCIgY2xhc3M9Im5hdmJhciI+U2F0ZWxsaXRlPC9hPiB8IDxhIGhyZWY9Imh0dHA6Ly9yYWRhci53ZWF0aGVyLmdvdi8iIGNsYXNzPSJuYXZiYXIiPjxiPlJhZGFyPC9iPjwvYT48YnI+CiAgICAgICZuYnNwOyZuYnNwOyZuYnNwOzxhIGhyZWY9Ii9yZWNvbmxpc3Quc2h0bWwiIGNsYXNzPSJuYXZiYXIiPkFpcmNyYWZ0IFJlY29uPC9hPjxicj4KICAgICAgJm5ic3A7Jm5ic3A7Jm5ic3A7PGEgaHJlZj0iL2FyY2hpdmUvMjAxMS9pbmRleC5zaHRtbCIgY2xhc3M9Im5hdmJhciI+QWR2aXNvcnkgQXJjaGl2ZTwvYT48YnI+CiAgICAgICZuYnNwOyZuYnNwOyZuYnNwOzxhIGhyZWY9Ii9hYm91dGV4cGVyaW1lbnRhbC5zaHRtbCIgY2xhc3M9Im5hdmJhciI+RXhwZXJpbWVudGFsPC9hPjxicj4KICAgICAgJm5ic3A7Jm5ic3A7Jm5ic3A7PGEgaHJlZj0iL2Fib3V0d2FwLnNodG1sIiBjbGFzcz0ibmF2YmFyIj5Nb2JpbGUgUHJvZHVjdHM8L2E+PGJyPgogICAgICAmbmJzcDsmbmJzcDsmbmJzcDs8YSBocmVmPSIvc2lnbnVwLnNodG1sIiBjbGFzcz0ibmF2YmFyIj5FLW1haWwgVXBkYXRlczwvYT48YnI+CiAgICAgICZuYnNwOyZuYnNwOyZuYnNwOzxhIGhyZWY9Ii9hdWRpby9pbmRleC5zaHRtbCIgY2xhc3M9Im5hdmJhciI+QXVkaW8vUG9kY2FzdHM8L2E+PGJyPgogICAgICAmbmJzcDsmbmJzcDsmbmJzcDs8YSBocmVmPSIvZ2lzLyIgY2xhc3M9Im5hdmJhciI+R0lTIERhdGE8L2E+IHwgPGEgaHJlZj0iL2Fib3V0cnNzLnNodG1sIiBjbGFzcz0ibmF2YmFyIj5SU1MgPGltZyBzdHlsZT0idmVydGljYWwtYWxpZ246dG9wIiBzcmM9Ii9naWZzL3htbDIuZ2lmIiBib3JkZXI9IjAiIHdpZHRoPSIxMyIgaGVpZ2h0PSIxMyIgYWx0PSJYTUwvUlNTIGxvZ28iPjwvYT48YnI+CiAgICAgICZuYnNwOyZuYnNwOyZuYnNwOzxhIGhyZWY9Ii9hYm91dG5oY3Byb2Quc2h0bWwiIGNsYXNzPSJuYXZiYXIiPkhlbHAgd2l0aCBBZHZpc29yaWVzPC9hPgogICAgPC90ZD4KICAgIDwvdHI+CgogICAgPHRyPgogICAgPHRkIGNsYXNzPSJ3aGl0ZSIgY29sc3Bhbj0iMiI+PGEgbmFtZT0idGFmYiI+PC9hPgogICAgICA8YSBocmVmPSIvYWJvdXR0YWZiLnNodG1sIiBjbGFzcz0ibmF2YmFyIj48c3BhbiBjbGFzcz0ieWVsbG93Ij5NYXJpbmUgRm9yZWNhc3RzPC9zcGFuPjwvYT48YnI+CiAgICAgICZuYnNwOyZuYnNwOyZuYnNwOzxhIGhyZWY9Ii9tYXJpbmVfZm9yZWNhc3RzLnNodG1sIiBjbGFzcz0ibmF2YmFyIj5BdGxhbnRpYyBhbmQgRSBQYWNpZmljPC9hPjxicj4KICAgICAgJm5ic3A7Jm5ic3A7Jm5ic3A7PGEgaHJlZj0iL2FuYWx5c2lzX3Rvb2xzLnNodG1sIiBjbGFzcz0ibmF2YmFyIj5BbmFseXNpcyBUb29sczwvYT48YnI+CiAgICAgICZuYnNwOyZuYnNwOyZuYnNwOzxhIGhyZWY9Ii90YWZiL2dyaWRkZWRfbWFyaW5lL2luZGV4LnBocCIgY2xhc3M9Im5hdmJhciI+R3JpZGRlZCBNYXJpbmU8L2E+PGJyPgogICAgICAmbmJzcDsmbmJzcDsmbmJzcDs8YSBocmVmPSIvYWJvdXR0YWZicHJvZC5zaHRtbCIgY2xhc3M9Im5hdmJhciI+SGVscCB3aXRoIE1hcmluZTwvYT48YnI+CiAgICA8L3RkPgogICAgPC90cj4KCiAgICA8dHI+CiAgICA8dGQgY2xhc3M9IndoaXRlIiBjb2xzcGFuPSIyIj48YSBuYW1lPSJhd2FyZW5lc3MiPjwvYT4KICAgICAgPGEgaHJlZj0iaHR0cDovL3d3dy53ZWF0aGVyLmdvdi9vcy9odXJyaWNhbmUvaW5kZXguc2h0bWwiIGNsYXNzPSJuYXZiYXIiPjxzcGFuIGNsYXNzPSJ5ZWxsb3ciPkh1cnJpY2FuZSBBd2FyZW5lc3M8L3NwYW4+PC9hPjxicj4KICAgICAgJm5ic3A7Jm5ic3A7Jm5ic3A7PGEgaHJlZj0iL3ByZXBhcmUiIGNsYXNzPSJuYXZiYXIiPkJlIFByZXBhcmVkPC9hPiB8IDxhIGhyZWY9Ii9vdXRyZWFjaC9pbmRleC5zaHRtbCIgY2xhc3M9Im5hdmJhciI+TGVhcm48L2E+PGJyPgogICAgICAmbmJzcDsmbmJzcDsmbmJzcDs8YSBocmVmPSIvc3N1cmdlL3NzdXJnZV9vdmVydmlldy5zaHRtbCIgY2xhc3M9Im5hdmJhciI+U3Rvcm0gU3VyZ2U8L2E+PGJyPgogICAgICAmbmJzcDsmbmJzcDsmbmJzcDs8YSBocmVmPSJodHRwOi8vd3d3LmFvbWwubm9hYS5nb3YvaHJkL3RjZmFxL3RjZmFxSEVELmh0bWwiIGNsYXNzPSJuYXZiYXIiPkZyZXF1ZW50IFF1ZXN0aW9uczwvYT48YnI+CiAgICAgICZuYnNwOyZuYnNwOyZuYnNwOzxhIGhyZWY9Ii9hYm91dHJlc2VhcmNoLnNodG1sIiBjbGFzcz0ibmF2YmFyIj5SZXNlYXJjaDwvYT48YnI+CiAgICAgICZuYnNwOyZuYnNwOyZuYnNwOzxhIGhyZWY9Ii9odW50ZXJzLnNodG1sIiBjbGFzcz0ibmF2YmFyIj5IdXJyaWNhbmUgSHVudGVyczwvYT48YnI+CiAgICAgICZuYnNwOyZuYnNwOyZuYnNwOzxhIGhyZWY9Ii9hYm91dHNzaHdzLnNodG1sIiBjbGFzcz0ibmF2YmFyIj5TYWZmaXItU2ltcHNvbiBTY2FsZTwvYT48YnI+CiAgICAgICZuYnNwOyZuYnNwOyZuYnNwOzxhIGhyZWY9Ii9hYm91dG1vZGVscy5zaHRtbCIgY2xhc3M9Im5hdmJhciI+Rm9yZWNhc3RpbmcgTW9kZWxzPC9hPjxicj4KICAgICAgJm5ic3A7Jm5ic3A7Jm5ic3A7PGEgaHJlZj0iL2Fib3V0Z2xvc3Muc2h0bWwiIGNsYXNzPSJuYXZiYXIiPkdsb3NzYXJ5L0Fjcm9ueW1zPC9hPjxicj4KICAgICAgJm5ic3A7Jm5ic3A7Jm5ic3A7PGEgaHJlZj0iL2Fib3V0bmFtZXMuc2h0bWwiIGNsYXNzPSJuYXZiYXIiPlN0b3JtIE5hbWVzPC9hPjxicj4KICAgICAgJm5ic3A7Jm5ic3A7Jm5ic3A7PGEgaHJlZj0iL2JyZWFrcG9pbnRzLnNodG1sP2dtIiBjbGFzcz0ibmF2YmFyIj5CcmVha3BvaW50czwvYT48YnI+CiAgICA8L3RkPgogICAgPC90cj4KCiAgICA8dHI+CiAgICA8dGQgY2xhc3M9IndoaXRlIiBjb2xzcGFuPSIyIj48YSBuYW1lPSJoaXN0b3J5Ij48L2E+CiAgICAgIDxhIGhyZWY9Imh0dHA6Ly9jc2Mtcy1tYXBzLXEuY3NjLm5vYWEuZ292L2h1cnJpY2FuZXMvIiBjbGFzcz0ibmF2YmFyIj48c3BhbiBjbGFzcz0ieWVsbG93Ij5IdXJyaWNhbmUgSGlzdG9yeTwvc3Bhbj48L2E+PGJyPgogICAgICAmbmJzcDsmbmJzcDsmbmJzcDs8YSBocmVmPSIvcGFzdGFsbC5zaHRtbCIgY2xhc3M9Im5hdmJhciI+U2Vhc29ucyBBcmNoaXZlPC9hPjxicj4KICAgICAgJm5ic3A7Jm5ic3A7Jm5ic3A7PGEgaHJlZj0iL3ZlcmlmaWNhdGlvbi8iIGNsYXNzPSJuYXZiYXIiPkZvcmVjYXN0IEFjY3VyYWN5PC9hPjxicj4KICAgICAgJm5ic3A7Jm5ic3A7Jm5ic3A7PGEgaHJlZj0iL3Bhc3Rwcm9maWxlLnNodG1sIiBjbGFzcz0ibmF2YmFyIj5DbGltYXRvbG9neTwvYT48YnI+CiAgICAgICZuYnNwOyZuYnNwOyZuYnNwOzxhIGhyZWY9Ii9kY21pLnNodG1sIiBjbGFzcz0ibmF2YmFyIj5Nb3N0IEV4dHJlbWU8L2E+PGJyPgogICAgPC90ZD4KICAgIDwvdHI+CgogICAgPHRyPgogICAgPHRkIGNsYXNzPSJ3aGl0ZSIgY29sc3Bhbj0iMiI+PGEgbmFtZT0idHBjaW5mbyI+PC9hPgogICAgICA8YSBocmVmPSIvYWJvdXRpbnRyby5zaHRtbCIgY2xhc3M9Im5hdmJhciI+PHNwYW4gY2xhc3M9InllbGxvdyI+QWJvdXQgdGhlIE5IQzwvc3Bhbj48L2E+PGJyPgogICAgICAmbmJzcDsmbmJzcDsmbmJzcDs8YSBocmVmPSIvbWlzc2lvbi5zaHRtbCIgY2xhc3M9Im5hdmJhciI+TWlzc2lvbiBhbmQgVmlzaW9uPC9hPjxicj4KICAgICAgJm5ic3A7Jm5ic3A7Jm5ic3A7PGEgaHJlZj0iL2Fib3V0c3RhZmYuc2h0bWwiIGNsYXNzPSJuYXZiYXIiPlBlcnNvbm5lbDwvYT4gfCA8YSBocmVmPSIvYWJvdXR2aXNpdG9yLnNodG1sIiBjbGFzcz0ibmF2YmFyIj5WaXNpdG9yczwvYT48YnI+CiAgICAgICZuYnNwOyZuYnNwOyZuYnNwOzxhIGhyZWY9Ii9uaGN0b3VyLnNodG1sIiBjbGFzcz0ibmF2YmFyIj5OSEMgVmlydHVhbCBUb3VyPC9hPjxicj4KICAgICAgJm5ic3A7Jm5ic3A7Jm5ic3A7PGEgaHJlZj0iaHR0cDovL3d3dy5hb21sLm5vYWEuZ292L2dlbmVyYWwvbGliL2xpYjEvbmhjbGliL2luZGV4Lmh0bSIgY2xhc3M9Im5hdmJhciI+TGlicmFyeTwvYT48YnI+CiAgICAgICZuYnNwOyZuYnNwOyZuYnNwOzxhIGhyZWY9Ii9qaHQvaW5kZXguc2h0bWwiIGNsYXNzPSJuYXZiYXIiPkpvaW50IEh1cnIgVGVzdGJlZDwvYT48YnI+CiAgICAgICZuYnNwOyZuYnNwOyZuYnNwOzxhIGhyZWY9Imh0dHA6Ly93d3cubmNlcC5ub2FhLmdvdiIgY2xhc3M9Im5hdmJhciI+TkNFUDwvYT4gfCA8YSBocmVmPSJodHRwOi8vd3d3Lm5jZXAubm9hYS5nb3YvbmV3c2xldHRlci8iIGNsYXNzPSJuYXZiYXIiPk5ld3NsZXR0ZXI8L2E+PGJyPgogICAgICA8IS0tJm5ic3A7Jm5ic3A7Jm5ic3A7PGEgaHJlZj0iaHR0cDovL3BpY3Rvci5yZGMubm9hYS5nb3Y6NzAwMS9leHRzdGFmZi9zZWFyY2giIGNsYXNzPSJuYXZiYXIiPk5PQUEgTG9jYXRvcjwvYT48YnI+IC0tPgogICAgICA8IS0tJm5ic3A7Jm5ic3A7Jm5ic3A7PGEgaHJlZj0iL25oY2V4aXQuc2h0bWw/aHR0cDovL3d3dy53eDRuaGMub3JnIiBjbGFzcz0ibmF2YmFyIj5XWDROSEMgUmFkaW88L2E+PGJyPiAtLT4KICAgICAgPCEtLSZuYnNwOyZuYnNwOyZuYnNwOzxhIGhyZWY9ImZ0cDovL2Z0cC5uaGMubm9hYS5nb3YvcHViLyI+TkhDL1RQQyBBbm9ueW1vdXM8YnI+Jm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7Jm5ic3A7RlRQIFNlcnZlcjwvYT4tLT4KICAgIDwvdGQ+CiAgICA8L3RyPgoKICAgIDx0cj4KICAgIDx0ZCBjbGFzcz0id2hpdGUiIGNvbHNwYW49IjIiPgogICAgICA8YSBocmVmPSIvY29udGFjdC5zaHRtbCIgY2xhc3M9Im5hdmJhciI+PHNwYW4gY2xhc3M9InllbGxvdyI+Q29udGFjdCBVczwvc3Bhbj48L2E+ICZuZGFzaDsgPGEgaHJlZj0iL2hlbHAuc2h0bWwiIGNsYXNzPSJuYXZiYXIiPjxzcGFuIGNsYXNzPSJ5ZWxsb3ciPkhlbHA8L3NwYW4+PC9hPgogICAgPC90ZD4KICAgIDwvdHI+CgoKICAgIDx0cj4KICAgIDx0ZCBjbGFzcz0id2hpdGUiIGNvbHNwYW49IjIiPgogICAgPC90ZD4KICAgIDwvdHI+CgogICAgPHRyPgogICAgPHRkIGFsaWduPSJjZW50ZXIiIGNvbHNwYW49IjIiPgogICAgICA8YSBocmVmPSJodHRwOi8vd3d3LnVzYS5nb3YvIj48aW1nIHNyYz0iL2dyYXBoaWNzL3VzYWdvdl9sb2dvX2NvbG9yXzExMHdfMzBoLmdpZiIgYWx0PSJGaXJzdEdvdi5nb3YgaXMgdGhlIFUuUy4gR292ZXJubWVudCdzIG9mZmljaWFsIFdlYiBwb3J0YWwgdG8gYWxsIEZlZGVyYWwsIHN0YXRlIGFuZCBsb2NhbCBnb3Zlcm5tZW50IFdlYiByZXNvdXJjZXMgYW5kIHNlcnZpY2VzLiIgd2lkdGg9IjExMCIgaGVpZ2h0PSIzMCIgYm9yZGVyPSIwIj48L2E+CiAgICA8L3RkPgogICAgPC90cj4KICAgIDx0cj4KICAgIDx0ZCBhbGlnbj0iY2VudGVyIiBjb2xzcGFuPSIyIj4KICAgICAgPGEgaHJlZj0iL25oY2V4aXQuc2h0bWw/aHR0cDovL3d3dy5mYWNlYm9vay5jb20vVVMuTk9BQS5OYXRpb25hbEh1cnJpY2FuZUNlbnRlci5nb3YiPjxpbWcgc3JjPSIvZ3JhcGhpY3MvZmFjZWJvb2tfbG9nby5naWYiIGFsdD0iRm9sbG93IHRoZSBOYXRpb25hbCBIdXJyaWNhbmUgQ2VudGVyIG9uIEZhY2Vib29rIiB3aWR0aD0iMTEwIiBoZWlnaHQ9IjMzIiBib3JkZXI9IjAiPjwvYT4KICAgIDwvdGQ+CiAgICA8L3RyPgo8IS0tCiAgICA8dHI+CiAgICA8dGQgYWxpZ249ImNlbnRlciIgY29sc3Bhbj0iMiI+CiAgICAgIDxhIGhyZWY9Ii90d2l0dGVyLnNodG1sIj48aW1nIHNyYz0iL2dyYXBoaWNzL3R3aXR0ZXJfbG9nby5wbmciIGFsdD0iRm9sbG93IHRoZSBOYXRpb25hbCBIdXJyaWNhbmUgQ2VudGVyIG9uIFR3aXR0ZXIiIHdpZHRoPSIxMTAiIGhlaWdodD0iMjAiIGJvcmRlcj0iMCI+PC9hPgogICAgPC90ZD4KICAgIDwvdHI+Ci0tPgoKICA8L3Rib2R5Pgo8L3RhYmxlPgo8IS0tIEVuZCBOSEMgc3RhbmRhcmQgbGVmdCBzaWRlYmFyIG1lbnUgYm90dG9tIC0tPgoKICAgIAoKICAgIAogICAgPCEtLSBNYXJrIHRoZSBiZWdpbm5pbmcgb2YgcGFnZSBjb250ZW50cyAoYXBwZW5kICNjb250ZW50cyBhZnRlciB0aGUgVVJMKSAtLT4KICAgIDx0ZCB2YWxpZ249InRvcCIgYWxpZ249ImxlZnQiIHdpZHRoPSI3OSUiPjxhIG5hbWU9ImNvbnRlbnRzIj48L2E+PGJyPiA8IS0tIHdhcyA1NDAgLS0+Cgo8IS0tIEJlZ2luIG1haW4gYm9keSAtLT4KCjwhLS0gQnJlYWRjcnVtYiBzZWN0aW9uIChzbWFsbCB0YWJsZSBhdCBlbmQgb2YgZWFjaCBwYWdlJ3MgY29udGVudHMpIC0tPgoKPHRhYmxlIGNlbGxzcGFjaW5nPSIwIiBjZWxscGFkZGluZz0iMCIgd2lkdGg9IjEwMCUiIGJvcmRlcj0iMCI+CiAgPHRib2R5PgogIDx0cj4KICA8dGQgYWxpZ249ImxlZnQiPgogICAgPHRhYmxlIGNlbGxzcGFjaW5nPSIwIiBjZWxscGFkZGluZz0iMCIgd2lkdGg9IjEwMCUiIGJvcmRlcj0iMCI+CiAgICAgIDx0Ym9keT4KICAgICAgPHRyPgogICAgICA8dGQ+CgogICAgICA8IS0tIFNUQVJUIE9GIENPTlRFTlQgLS0+CgogICAgICA8IS0tIEJFR0lOIFNQRUNJQUwgTk9USUNFIFNFQ1RJT04gLS0+CiAgICAgIDwhLS0gVGhlIGZvbGxvd2luZyBpcyBzcGVjaWFsIG5vdGljZSB0aGF0IHdpbGwgYXBwZWFyIG9uIGFsbCBwYWdlcyBhcyBhIGhlYWRsaW5lIC0tPgogICAgICA8IS0tIFVzZWQgZHVyaW5nIGEgcHJvYmxlbSBvbiB0aGUgd2Vic2l0ZS4uLmNyZWF0ZXMgYSBiYW5uZXIgb24gYWxsIHBhZ2VzLiAtLT4KCiAgICAgIDwhLS0KVU5DT01NRU5UIFRISVMgQVMgQVBQUk9QUklBVEUKCjxzcGFuIHN0eWxlPSJjb2xvcjojRkYwMDAwOyBmb250LXdlaWdodDogYm9sZDsgZm9udC1zaXplOjEzIj5UaGUgTkhDIHdlYnNpdGUgaXMgaW4gYmFja3VwIG1vZGUuIFNvbWUgaW5mb3JtYXRpb24gbWF5IG5vdCBiZSBhdmFpbGFibGUuPC9zcGFuPjxicj48YnI+Ci0tPgoKCiAgICAgIDwhLS0gRU5EIFNQRUNJQUwgTk9USUNFIFNFQ1RJT04gLS0+CgoKICAgICAgCiAgICAgIAoKCgoKPHRhYmxlIGJvcmRlcj0iMCIgYWxpZ249ImNlbnRlciIgY2VsbHBhZGRpbmc9IjAiIGNlbGxzcGFjaW5nPSIwIiB3aWR0aD0iMTAwJSI+Cjx0cj4KIDx0ZCBiZ2NvbG9yPSIjMDkyNDhiIiB3aWR0aD0iNTAlIj48Zm9udCBjb2xvcj0iI2ZmZmZmZiI+PGI+Jm5ic3A7Jm5ic3A7VG9wIE5ld3Mgb2YgdGhlIERheS4uLi4uPC9iPjwvZm9udD48YSBocmVmPSIvbmV3c2FyY2hpdmUuc2h0bWwiIGNsYXNzPSJuYXZiYXIiPjxpPnZpZXcgcGFzdCBuZXdzPC9pPjwvYT48L3RkPgogPHRkIHdpZHRoPSI1MCUiIGFsaWduPSJyaWdodCI+PGk+TGFzdCB1cGRhdGUgV2VkLCAxIEp1biAyMDExIDA3OjI4OjEzIFVUQzwvaT4mbmJzcDsmbmJzcDs8L3RkPgo8L3RyPgo8dHI+CiA8dGQgY29sc3Bhbj0iMiI+PGltZyBzcmM9Ii9naWZzL2JsdWVfbGluZS5naWYiIHdpZHRoPSI5OSUiIGhlaWdodD0iMSIgYm9yZGVyPSIwIiBhbHQ9ImJsdWUgbGluZSBmb3IgbmV3cyB0YWJsZSI+PC90ZD4KPC90cj4KPC90YWJsZT4KCjwhLS0KPHNwYW4gY2xhc3M9InN0ZCI+VG9wIE5ld3Mgb2YgdGhlIERheTwvc3Bhbj4gJm5kYXNoOyA8YSBocmVmPSIvbmV3c2FyY2hpdmUuc2h0bWwiPjxpPk5ld3MgQXJjaGl2ZTwvaT48L2E+Ci0tPgoKPHVsPgoKPCEtLTxsaT48YSBocmVmPSIvYXVkaW8vaW5kZXguc2h0bWwiPlBvZGNhc3QgYXVkaW8gYnJpZWZpbmdzIHJlZ2FyZGluZyBBbGV4IHdpbGwgYmUgaXNzdWVkIHBlcmlvZGljYWxseTwvYT48L2xpPi0tPgo8IS0tPGxpPjxhIGhyZWY9Ii9uaGNleGl0LnNodG1sP2h0dHA6Ly93d3cuZW1lcmdlbmN5LmluZm8vbmhjLyI+VmlkZW8gYnJpZWZpbmdzPC9hPiBhbmQgPGEgaHJlZj0iL2F1ZGlvL2luZGV4LnNodG1sIj5hdWRpbyBwb2RjYXN0czwvYT4gcmVnYXJkaW5nIEVhcmwgYXJlIG5vdyBhdmFpbGFibGU8L2E+PC9saT4tLT4KPCEtLTxsaT5TdG9ybSB1cGRhdGVzIG9uIHlvdXIgbW9iaWxlIHBob25lOiAmbmJzcDs8YSBocmVmPSIvbW9iaWxlL2luZGV4Lmh0bWwiPnd3dy5uaGMubm9hYS5nb3YvbW9iaWxlPC9hPi4uLi48YSBocmVmPSIvYWJvdXRhbHRlcm5hdGUuc2h0bWwiPihsZWFybiBtb3JlKTwvYT48L2xpPi0tPgo8IS0tCjxsaT48YSBocmVmPSIvdHdpdHRlci5zaHRtbCI+Rm9sbG93IHRoZSBOYXRpb25hbCBIdXJyaWNhbmUgQ2VudGVyIG9uIFR3aXR0ZXI8L2E+PC9saT4KPGxpPlJlYWQgdGhlIDxhIGhyZWY9Ii9xX2FuZF9hXzIwMTEwNl9lZF9yYXBwYXBvcnQuc2h0bWwiPkp1bmUgaXNzdWU8L2E+IG9mIHRoZSA8YSBocmVmPSIvcV9hbmRfYS5zaHRtbCI+bW9udGhseSBRICYgQSB3aXRoIE5IQyBwcm9mZXNzaW9uYWxzPC9hPjwvbGk+Ci0tPgo8bGk+Tk9BQSdzIENsaW1hdGUgUHJlZGljdGlvbiBDZW50ZXIgSGFzIFJlbGVhc2VkIHRoZSAyMDExIDxhIGhyZWY9Imh0dHA6Ly93d3cubm9hYW5ld3Mubm9hYS5nb3Yvc3RvcmllczIwMTEvMjAxMTA1MTlfYXRsYW50aWNodXJyaWNhbmVvdXRsb29rLmh0bWwiPkF0bGFudGljPC9hPiBhbmQgIDxhIGhyZWY9Imh0dHA6Ly93d3cubm9hYW5ld3Mubm9hYS5nb3Yvc3RvcmllczIwMTEvMjAxMTA1MTlfZWFzdHBhY2lmaWNodXJyaWNhbmVvdXRsb29rLmh0bWwiPkVhc3QgUGFjaWZpYzwvYT4gT3V0bG9va3M8L2E+PC9saT4KPGxpPlJlYWQgdGhlIDxhIGhyZWY9Ii9xX2FuZF9hXzIwMTEwNV9lcmljX2NocmlzdGVuc2VuLnNodG1sIj5NYXkgaXNzdWU8L2E+IG9mIHRoZSA8YSBocmVmPSIvcV9hbmRfYS5zaHRtbCI+bW9udGhseSBRICYgQSB3aXRoIE5IQyBwcm9mZXNzaW9uYWxzPC9hPjwvbGk+CjxsaT48YSBocmVmPSIvcGRmL3VwZGF0ZXNfMjAxMS5wZGYiPlByb2R1Y3QgQ2hhbmdlcyBmb3IgdGhlIDIwMTEgSHVycmljYW5lIFNlYXNvbiAoUERGKTwvYT48L2xpPgo8L3VsPgoKCjwhLS1NQUlOIHBhZ2UgY29udGVudCBoZXJlLS0+CgoKCjwhLS0gTG9hZCB1cCB0aGUgZnJvbnQgcGFnZSBtYXAgLS0+CjwhLS0gVHdvIGRpZmZlcmVudCBmaWxlcyBmb3IgaW5zZWFzb24gdnMgb2Zmc2Vhc29uLiAtLT4KPCEtLSBmcm9udG1hcF9pbnNlYXNvbi5zaHRtbCBhbmQgZnJvbnRtYXBfb2Zmc2Vhc29uLnNodG1sLS0+CjwhLS0gQ29weSB0aGUgYXBwcm9wcmlhdGUgZmlsZSB0byBmcm9udG1hcC5zaHRtbCAtLT4gCgo8IS0tIEVhc3QgUGFjaWZpYyBKUyAtLT4KCjwhLS0gQXRsYW50aWMgSlMgLS0+CjxzY3JpcHQgbGFuZ3VhZ2U9IkphdmFzY3JpcHQiIHR5cGU9InRleHQvamF2YXNjcmlwdCI+CmZ1bmN0aW9uIHNob3dfdGFiKG5hbSkKICAgewogICBkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgiVENfYWN0aXZpdHlfYXRsIikuc3R5bGUuZGlzcGxheT0gIm5vbmUiOwogICBkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgiVEFGQl9vdmVydmlld19hdGwiKS5zdHlsZS5kaXNwbGF5PSAibm9uZSI7CiAgIGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKG5hbSkuc3R5bGUuZGlzcGxheSA9ICJibG9jayI7CiAgIH0KPC9zY3JpcHQ+CgoKPGNlbnRlcj4KCjwhLS0gdGFibGUgdGhhdCBob2xkcyB0aGUgT3ZlcnZpZXcgR3JhcGhpYyAtLT4KPHRhYmxlIGJvcmRlcj0iMCIgY2VsbHNwYWNpbmc9IjAiIHdpZHRoPSIxMDAlIj4KPHRib2R5Pgo8dHI+Cjx0ZD4KPG5vc2NyaXB0Pjxmb250IGNvbG9yPSJyZWQiPkZvciBiZXN0IHZpZXdpbmcgZXhwZXJpZW5jZSwgcGxlYXNlIGVuYWJsZSBicm93c2VyIEphdmFTY3JpcHQvQWN0aXZlIFNjcmlwdGluZy48L2ZvbnQ+PC9ub3NjcmlwdD4KCiAgPCEtLSAqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqIC0tPgogIDwhLS0gKioqKioqKioqIEJlZ2luIEdUV08tbGlrZSBPdmVydmlldyBHcmFwaGljICoqKioqKioqKiAtLT4KICA8IS0tICoqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKiogLS0+CiAgPCEtLSBzdGFydCBiYXNpbiB0YWJzIC0tPgogIAogIDwhLS0gSGlnaGxpZ2h0IEF0bGFudGljIGFzIGFjdGl2ZSAtLT4KICA8dGFibGUgY2xhc3M9InN0ZCIgYm9yZGVyPSIwIiBjZWxscGFkZGluZz0iMCIgY2VsbHNwYWNpbmc9IjAiIHdpZHRoPSIxMDAlIj4KICA8dGJvZHk+CiAgPHRyIGFsaWduPSJjZW50ZXIiPgogIDx0ZCBzdHlsZT0iYm9yZGVyLWxlZnQ6MXB4IHNvbGlkICMwMDAwMDA7IGJvcmRlci1yaWdodDowcHggc29saWQgIzAwMDAwMDsgYm9yZGVyLXRvcDoxcHggc29saWQgIzAwMDAwMDsgYm9yZGVyLWJvdHRvbToxcHggc29saWQgIzAwMDAwMDsiIGFsaWduPSJyaWdodCI+PGltZyBzcmM9Ii9naWZzL25oY3RhYl9vZmYuanBnIiBhbHQ9InRhYiIgaGVpZ2h0PSIzNCIgd2lkdGg9IjEiPjwvdGQ+CiAgPHRkIHN0eWxlPSJib3JkZXItbGVmdDowcHggc29saWQgIzAwMDAwMDsgYm9yZGVyLXJpZ2h0OjBweCBzb2xpZCAjMDAwMDAwOyBib3JkZXItdG9wOjFweCBzb2xpZCAjMDAwMDAwOyBib3JkZXItYm90dG9tOjFweCBzb2xpZCAjMDAwMDAwOyIgd2lkdGg9IjUwJSIgY2xhc3M9Im5oY3RhYl9taWRkbGVfb24iPjxhIGhyZWY9Ii9pbmRleC5zaHRtbD9lcGFjIj5FYXN0ZXJuIFBhY2lmaWM8L2E+PC90ZD4KICA8dGQgc3R5bGU9ImJvcmRlci1sZWZ0OjBweCBzb2xpZCAjMDAwMDAwOyBib3JkZXItcmlnaHQ6MXB4IHNvbGlkICMwMDAwMDA7IGJvcmRlci10b3A6MXB4IHNvbGlkICMwMDAwMDA7IGJvcmRlci1ib3R0b206MXB4IHNvbGlkICMwMDAwMDA7IiBhbGlnbj0ibGVmdCI+PGltZyBzcmM9Ii9naWZzL25oY3RhYl9vZmYuanBnIiBhbHQ9InRhYiIgaGVpZ2h0PSIzNCIgd2lkdGg9IjEiPjwvdGQ+CiAgPHRkIHN0eWxlPSJib3JkZXItbGVmdDowcHggc29saWQgIzAwMDAwMDsgYm9yZGVyLXJpZ2h0OjBweCBzb2xpZCAjMDAwMDAwOyBib3JkZXItdG9wOjFweCBzb2xpZCAjMDAwMDAwOyBib3JkZXItYm90dG9tOjFweCBzb2xpZCAjZGRlNGZmOyIgYWxpZ249InJpZ2h0Ij48aW1nIHNyYz0iL2dpZnMvbmhjdGFiX29uLmpwZyIgYWx0PSJ0YWIiIGhlaWdodD0iMzQiIHdpZHRoPSIxIj48L3RkPgogIDx0ZCBzdHlsZT0iYm9yZGVyLWxlZnQ6MHB4IHNvbGlkICMwMDAwMDA7IGJvcmRlci1yaWdodDowcHggc29saWQgIzAwMDAwMDsgYm9yZGVyLXRvcDoxcHggc29saWQgIzAwMDAwMDsgYm9yZGVyLWJvdHRvbTowcHggc29saWQgIzAwMDAwMDsiIHdpZHRoPSI1MCUiIGNsYXNzPSJuaGN0YWJfbWlkZGxlX29mZiI+QXRsYW50aWM8L3RkPgogIDx0ZCBzdHlsZT0iYm9yZGVyLWxlZnQ6MHB4IHNvbGlkICMwMDAwMDA7IGJvcmRlci1yaWdodDoxcHggc29saWQgIzAwMDAwMDsgYm9yZGVyLXRvcDoxcHggc29saWQgIzAwMDAwMDsgYm9yZGVyLWJvdHRvbToxcHggc29saWQgI2RkZTRmZjsiIGFsaWduPSJsZWZ0Ij48aW1nIHNyYz0iL2dpZnMvbmhjdGFiX29uLmpwZyIgYWx0PSJ0YWIiIGhlaWdodD0iMzQiIHdpZHRoPSIxIj48L3RkPgogIDwvdHI+CiAgPC90Ym9keT4KICA8L3RhYmxlPgogIAogIDwhLS0gZW5kIGJhc2luIHRhYnMgLS0+CiAgCiAgPCEtLSBiZWdpbiB0YWJsZSB0aGF0IGhvbGRzIHRoZSBtYWluIG92ZXJ2aWV3IGltYWdlIC0tPgogIDwhLS0gQmFja2dyb3VuZCBhbmQgVGFibGUgQ2VsbCBDb2xvcnM6CiAgICAgICBkYXJrIGJsdWUvcHVycGxlIGlzOiAgICNhOWI2ZmMgICAKICAgICAgIGxpZ2h0IGJsdWUvcHVycGxlIGlzOiAgI2RkZTRmZiAgIAogICAgICAgZGFyayBibHVlIG5hdmJhciBpczogICAjMDkyNDhiIAogIC0tPgogIDx0YWJsZSBzdHlsZT0iYm9yZGVyLWxlZnQ6MXB4IHNvbGlkICMwMDAwMDA7IGJvcmRlci1yaWdodDoxcHggc29saWQgIzAwMDAwMDsgYm9yZGVyLXRvcDowcHggc29saWQgIzAwMDAwMDsgYm9yZGVyLWJvdHRvbToxcHggc29saWQgIzAwMDAwMDsiIHdpZHRoPSIxMDAlIiBjZWxscGFkZGluZz0iMCIgY2VsbHNwYWNpbmc9IjAiIGJnY29sb3I9IiNkZGU0ZmYiPgogIDwhLS0gQWRkIGEgc3BhY2VyIHJvdyAtLT4KICA8dHI+CiAgPHRkPjxpbWcgc3JjPSIvZ2lmcy9uaGN0YWJfb24uanBnIiBhbHQ9InRhYiIgaGVpZ2h0PSI4IiB3aWR0aD0iMSI+PC90ZD4gIAogIDwvdHI+CiAgPHRyIGFsaWduPSJjZW50ZXIiPgogIDx0ZCBhbGlnbj0iY2VudGVyIiB2YWxpZ249InRvcCIgY2xhc3M9IndoaXRlIj4KCiAgIDwhLS0gYmVnaW4gdGFibGUgdGhhdCBob2xkcyB0aGUgbWFpbiBvdmVydmlldyBpbWFnZSAtLT4gCiAgIDx0YWJsZSBib3JkZXI9IjAiIGNlbGxwYWRkaW5nPSIwIiBjZWxsc3BhY2luZz0iMCIgd2lkdGg9IjU2NSI+CiAgIDx0Ym9keT4KICAgPHRyPgogICAKICAgPHRkPgogICAKICAgPGRpdiBpZD0iVENfYWN0aXZpdHlfYXRsIiBzdHlsZT0iZGlzcGxheTpibG9jazsiPjxtYXAgaWQ9InR3b21hcGF0bCIgbmFtZT0idHdvbWFwYXRsIj4KCjxhcmVhIHNoYXBlPSJwb2x5IiBjb29yZHM9IjAsMjI1LDMxLDI0MSw1MCwyNDgsNjAsMjQ0LDY3LDI0Niw4MCwyNTgsODYsMjU5LDk0LDI2MSwxMDIsMjYzLDExMywyNzUsMTE0LDI4MywxMjIsMjg1LDEyNywyODgsMTI2LDI5MywxMzIsMjk0LDEzNywyOTMsMTQzLDI5OSwxNDgsMjk5LDE0OSwyOTYsMTQ3LDI5MiwxNTAsMjkyLDE1MiwyODksMTU0LDI4OCwxNTgsMjkyLDE2MCwyOTksMTYzLDMwMiwxNjQsMzIwLDE2MSwzMjUsMTU2LDMyNiwxNTQsMzMxLDE1NCwzMzQsMTQ5LDMzNiwwLDMzNiwwLDIyNSIgaHJlZj0iaW5kZXguc2h0bWw/ZXBhYyIgYWx0PSJDbGljayBmb3IgRWFzdGVybiBQYWNpZmljIiB0aXRsZT0iQ2xpY2sgZm9yIEVhc3Rlcm4gUGFjaWZpYyI+Cgo8YXJlYQpocmVmPSIvZ3R3b19hdGwuc2h0bWwiCnNoYXBlPXBvbHkgY29vcmRzPSIxODIsMTYyLCAxOTAsMTU0LCAxOTIsMTQwLCAxODYsMTMyLCAxNzIsMTI5LCAxNjAsMTMzLCAxNTUsMTQ2LCAxNTgsMTU4LCAxNzAsMTY0Igpvbk1vdXNlT3Zlcj0ic3RtKFRleHRbMTBdLFN0eWxlWzEwXSkiIG9uTW91c2VPdXQ9Imh0bSgpIj4KPGFyZWEgaHJlZj0iZ3R3b19hdGwuc2h0bWwiIHNoYXBlPXJlY3QgY29vcmRzPSIwLDAsNTY1LDM2MyI+CjwvbWFwPgo8ZGl2IGFsaWduPWNlbnRlcj4KPGltZyBzcmM9Ii9vdmVydmlld19hdGwvYXRsX292ZXJ2aWV3LmdpZiIgd2lkdGg9IjU2NSIgaGVpZ2h0PSIzNTMiIGFsdD0iVEMgQWN0aXZpdHkiIHVzZW1hcD0iI3R3b21hcGF0bCI+PGJyPgo8L2Rpdj4KCjxzY3JpcHQgbGFuZ3VhZ2U9IkphdmFTY3JpcHQxLjIiIHNyYz0iL292ZXJ2aWV3X2F0bC9tYWluLmpzIiB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiPjwvc2NyaXB0PgoJCTxkaXYgaWQ9IlRpcExheWVyIiBzdHlsZT0idmlzaWJpbGl0eTpoaWRkZW47cG9zaXRpb246YWJzb2x1dGU7ei1pbmRleDoxMDAwO3RvcDotMTAwIj48L2Rpdj4KCQk8c2NyaXB0IGxhbmd1YWdlPSJKYXZhU2NyaXB0MS4yIiB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiPgogdmFyIEZpbHRlcnNFbmFibGVkID0gMQpUZXh0WzEwXT1bIjEwJSBDaGFuY2Ugb2YgVHJvcGljYWwgQ3ljbG9uZSBGb3JtYXRpb24gKGNsaWNrIGZvciBmdWxsIG91dGxvb2spIiwiQSBTTUFMTCBMT1cgUFJFU1NVUkUgU1lTVEVNIExPQ0FURUQgQUJPVVQgMzAwIE1JTEVTIEVBU1QgT0Y8YnI+Q0hBUkxFU1RPTiBTT1VUSCBDQVJPTElOQSBJUyBQUk9EVUNJTkcgQSBDT05DRU5UUkFURUQgQVJFQSBPRjxicj5TSE9XRVJTIEFORCBUSFVOREVSU1RPUk1TLiAgRU5WSVJPTk1FTlRBTCBDT05ESVRJT05TIEFSRSBOT1Q8YnI+RkFWT1JBQkxFIEZPUiBTSUdOSUZJQ0FOVCBERVZFTE9QTUVOVCBPRiBUSElTIFNZU1RFTSBCRUZPUkUgSVQ8YnI+UkVBQ0hFUyBMQU5EIElOIFRIRSBORVhUIERBWSBPUiBTTy4gIFRIRVJFIElTIEEgTE9XIENIQU5DRS4uLjEwPGJyPlBFUkNFTlQuLi5PRiBUSElTIFNZU1RFTSBCRUNPTUlORyBBIFRST1BJQ0FMIENZQ0xPTkUgRFVSSU5HIFRIRTxicj5ORVhUIDQ4IEhPVVJTIEFTIElUIE1PVkVTIFdFU1QtU09VVEhXRVNUV0FSRCBBVCAxNSBUTyAyMCBNUEguICBGT1I8YnI+QURESVRJT05BTCBJTkZPUk1BVElPTiBPTiBUSElTIFNZU1RFTS4uLlBMRUFTRSBTRUUgUFJPRFVDVFMgRlJPTTxicj5ZT1VSIExPQ0FMIE5BVElPTkFMIFdFQVRIRVIgU0VSVklDRSBPRkZJQ0UuICJdClN0eWxlWzEwXT1bImJsYWNrIiwiYmxhY2siLCIjRkZGRjAwIiwiI0U4RThGRiIsIiIsIiIsIiIsIiIsIkFyaWFsLCBIZWx2ZXRpY2EsIHNhbnMtc2VyaWYiLCJDb3VyaWVyIE5ldyIsIiIsIiIsIjMiLCIyIiw1NjAsIiIsMiwyLDEwLDEwLCIiLCIiLCIiLCIiLCIiXQphcHBseUNzc0ZpbHRlcigpCiA8L3NjcmlwdD4KCjwvZGl2PgogICA8ZGl2IGlkPSJUQUZCX292ZXJ2aWV3X2F0bCIgc3R5bGU9ImRpc3BsYXk6bm9uZTsiPjxpbWcgc3JjPSIvb3ZlcnZpZXdfYXRsL2F0bF9tYXJpbmUuZ2lmIiB3aWR0aD0iNTY1IiBoZWlnaHQ9IjM1MyIgYWx0PSJNYXJpbmUgRm9yZWNhc3RzIEF0bGFudGljIiB1c2VtYXAgPSIjVEFGQl9vdmVydmlld19hdGwiPjwvZGl2PgogICA8L3RkPgogICAKICAgPC90cj4KICAgPC90Ym9keT4KICAgPC90YWJsZT4KICAgPCEtLSBlbmQgdGFibGUgdGhhdCBob2xkcyB0aGUgbWFpbiBvdmVydmlldyBpbWFnZSAtLT4KCiAgIDwhLS0gYmVnaW4gdGFibGUgdGhhdCBob2xkcyB0aGUgImNob29zZSBmb2N1cyIgc2VsZWN0b3IgLS0+CiAgIDx0YWJsZSBib3JkZXI9IjAiIGNlbGxwYWRkaW5nPSI2IiBjZWxsc3BhY2luZz0iMCIgd2lkdGg9IjU2NSI+CiAgIDx0Ym9keT4KICAgPCEtLTx0cj4KICAgPHRkPjxzcGFjZXIgdHlwZT0iYmxvY2siIGhlaWdodD0iNSI+PC90ZD4KICAgPC90cj4KICAgLS0+CiAgIDx0cj4KICAgCiAgIDx0ZCBhbGlnbj0iY2VudGVyIiBjbGFzcz0ic2l6ZTEwcHRib2xkIiBzdHlsZT0id2hpdGUtc3BhY2U6IG5vd3JhcCI+PGEgaHJlZj0iL2d0d29fYXRsLnNodG1sIj5HcmFwaGljYWwgVHJvcGljYWwgV2VhdGhlciBPdXRsb29rPC9hPiAmbmJzcDsgfCAmbmJzcDsgPGEgaHJlZj0iL25oY19zdG9ybXMuc2h0bWwiIGNsYXNzPSJzaXplMTBwdGJvbGQiPkFjdGl2ZSBTdG9ybXM8L2E+ICZuYnNwOyB8ICZuYnNwOyA8YSBocmVmPSIvbWFyaW5lX2ZvcmVjYXN0cy5zaHRtbCIgY2xhc3M9InNpemUxMHB0Ym9sZCI+TWFyaW5lIEZvcmVjYXN0czwvYT48L3RkPgogICAKICAgPC90cj4KICAgPC90Ym9keT4KICAgPC90YWJsZT4gICAKICAgPCEtLSBlbmQgdGFibGUgb2YgImNob29zZSBmb2N1cyIgc2VsZWN0b3IgLS0+CgogIDwvdGQ+CiAgPC90cj4KICA8L3RhYmxlPiAKCiAgIDwhLS0gSW1hZ2UgTWFwICIjVEFGQl9vdmVydmlld19hdGxncmF5IiBmb3IgVEFGQiBBdGxhbnRpYyBHcmFwaGljIC0tPgogICA8bWFwIG5hbWU9IlRBRkJfb3ZlcnZpZXdfYXRsIj4KPGFyZWEgc2hhcGU9InBvbHkiIGNvb3Jkcz0iNDE2LDE0OCwyMzcsMTQ4LDIzNywyMDksMjk3LDIwOSwyOTcsMzAwLDQxNSwzMDAsNDE2LDE0OCIgaHJlZj0iL3RleHQvTUlBSFNGQVQyLnNodG1sIiBhbHQ9IkF0bGFudGljIEhpZ2ggU2VhcyBGb3JlY2FzdCI+CjxhcmVhIHNoYXBlPSJwb2x5IiBjb29yZHM9IjIzNSwxNDgsMTQyLDE0OCwxNDIsMTU1LDE0MywxNjAsMTQ5LDE3MywxNDksMTg0LDE0NCwxODksMTQzLDE5OSwxMjksMjAyLDEyMSwyMDcsMTEwLDIxMSwxMDQsMjI0LDEwMiwyMzgsOTgsMjQ0LDEyMCwyNDYsMTMxLDI1MCwxMjcsMjc1LDEzNywyODYsMTQzLDI4OCwxNTAsMjg1LDE1NywyODUsMTY3LDI5MSwxNzQsMjg2LDE3NywyNzUsMTk3LDI2NiwyMDIsMjY4LDE5OCwyNzMsMjA1LDI3NSwyMTAsMjY5LDIxNiwyNzUsMjI3LDI3OCwyNDIsMjgyLDI1MiwyNzgsMjYyLDI4MCwyNjMsMjkwLDI3NCwyOTUsMjgzLDMwMSwyOTYsMzAxLDI5NiwyMTEsMjM2LDIxMCwyMzcsMTQ5LDIzNSwxNDgiIGhyZWY9Ii90ZXh0L01JQU9GRk5UMy5zaHRtbCIgYWx0PSJDYXJpYmJlYW4gT2Zmc2hvcmUgV2F0ZXJzIEZvcmVjYXN0Ij4KPGFyZWEgc2hhcGU9InBvbHkiIGNvb3Jkcz0iMTQzLDE4NiwxMzMsMTcxLDEzMywxNjIsMTI2LDE1NSwxMTksMTU3LDEwOSwxNTMsOTYsMTUzLDkxLDE1OSw3OSwxNTksNjYsMTU4LDQ5LDE2OCw0NSwxNzYsNDcsMTgyLDQ0LDIxMCw1MSwyMTksNjAsMjMxLDc1LDIzMSw4NSwyMjYsODcsMjE0LDEwOCwyMTAsMTE4LDIwOSwxMjYsMjAyLDE0MCwyMDAsMTQzLDE4NiIgaHJlZj0iL3RleHQvTUlBT0ZGTlQ0LnNodG1sIiBhbHQ9Ikd1bGYgb2YgTWV4aWNvIE9mZnNob3JlIFdhdGVycyBGb3JlY2FzdCI+CjxhcmVhIHNoYXBlPSJyZWN0IiBjb29yZHM9IjAsMCw1NjUsMzUzIiBocmVmPSIvbWFyaW5lX2ZvcmVjYXN0cy5zaHRtbCIgYWx0PSIiPgo8L21hcD4KCgogICA8IS0tIEltYWdlIE1hcCAiI1RBRkJfb3ZlcnZpZXdfZXBhY2dyYXkiIGZvciBUQUZCIEVhc3QgUGFjaWZpYyBHcmFwaGljIC0tPgogICA8bWFwIG5hbWU9IlRBRkJfb3ZlcnZpZXdfZXBhYyI+CjxhcmVhIHNoYXBlPXBvbHkgY29vcmRzPSIxNzUsNiwxNzYsMTUsMTg1LDI2LDE4OSwzNiwyMDAsNDksMjA2LDYxLDIwMyw2NCwxOTUsNTUsMTkwLDUyLDE4OCw0NSwxODAsNDEsMTcwLDI4LDE3NiwzMCwxNzcsMjcsMTY2LDE5LDE3LDE5LDE3LDIwMCwzODgsMjAwLDM5NSwxOTEsNDAxLDE4NCw0MDcsMTc2LDQwNSwxNjIsMzk3LDE0OSwzOTEsMTUwLDM4OCwxNTMsMzg4LDE1OCwzODAsMTU4LDM3MiwxNTIsMzU1LDE0MywzNDIsMTI0LDMxNCwxMTcsMjk3LDEwNSwyODYsMTA5LDI0Myw5MiwyMjksODAsMjI5LDY3LDIwNyw0NSwxODksMjMsMTgwLDUsMTc1LDgsMTc1LDE5LDE4NiwyNSwxNzgsMTksMTc1LDYiIGhyZWY9Ii90ZXh0L01JQUhTRkVQMi5zaHRtbCIgYWx0PSJOb3J0aGVhc3QgUGFjaWZpYyBIaWdoIFNlYXMgRm9yZWNhc3QiPgo8YXJlYSBzaGFwZT1wb2x5IGNvb3Jkcz0iMzg3LDIwMiwxMzksMjAyLDEzOSwzMTAsNDUxLDMxMCw0MzIsMjk3LDQxMiwyODIsMzg4LDIzNywzODAsMjM1LDM4MCwyMjQsMzg4LDIxOCwzODMsMjEzLDM4NywyMDIiIGhyZWY9Ii90ZXh0L01JQUhTRkVQMy5zaHRtbCIgYWx0PSJTb3V0aGVhc3QgUGFjaWZpYyBIaWdoIFNlYXMgRm9yZWNhc3QiPgo8YXJlYSBzaGFwZT0icmVjdCIgY29vcmRzPSIwLDAsNTY1LDM1MyIgaHJlZj0iL21hcmluZV9mb3JlY2FzdHMuc2h0bWwiIGFsdD0iRGVmYXVsdCBNYXAgb2YgTWFyaW5lIEZvcmVjYXN0IEFyZWFzIj4KPC9tYXA+CiAgCiAKICAgPCEtLSAqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqIC0tPgogICA8IS0tICoqKioqKioqKiogRW5kIEdUV08tbGlrZSBPdmVydmlldyBHcmFwaGljICoqKioqKioqKiogLS0+CiAgIDwhLS0gKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKiAtLT4KPC90YWJsZT4KPC9jZW50ZXI+CgoKPGJyPgoKCgogIDwhLS0gQXRsYW50aWMgLS0+Cjx0YWJsZSBib3JkZXI9IjAiIGNlbGxzcGFjaW5nPSIwIiBjZWxscGFkZGluZz0iMCIgd2lkdGg9IjEwMCUiPgo8dHIgYWxpZ249ImNlbnRlciIgdmFsaWduPSJib3R0b20iPgo8dGggYWxpZ249ImxlZnQiIG5vd3JhcD48c3BhbiBzdHlsZT0iZm9udC1zaXplOiAxOHB4OyI+QXRsYW50aWMgLSBDYXJpYmJlYW4gU2VhIC0gR3VsZiBvZiBNZXhpY288L3NwYW4+PC90aD4KPHRkIGFsaWduPSJyaWdodCIgY2xhc3M9InJlZyIgbm93cmFwPjwvdGQ+CjwvdHI+Cjx0cj4KPHRkIGNvbHNwYW49IjIiPgo8dGFibGUgYm9yZGVyPSIwIiBjZWxsc3BhY2luZz0iMCIgY2VsbHBhZGRpbmc9IjAiIHdpZHRoPSIxMDAlIj4KPHRyPgo8dGQgYWxpZ249ImxlZnQiPgo8Yj48YSBocmVmPSIvdGV4dC9yZWZyZXNoL01JQVRXT0FUK3NodG1sLzAxMDUzMy5zaHRtbCI+VHJvcGljYWwgV2VhdGhlciBPdXRsb29rPC9hPiAoPGEgaHJlZj0iL3RleHQvcmVmcmVzaC9TSlVUV09TUCtzaHRtbC8wMTA2MTkuc2h0bWwiPmVuIEVzcGEmbnRpbGRlO29sPC9hPiopPC9iPjxicj48c3BhbiBjbGFzcz0idGlueSI+MjAwIEFNIEVEVCBXRUQgSlVOIDEgMjAxMTwvc3Bhbj4KPC90ZD4KPHRkIGFsaWduPSJyaWdodCI+CjxiPjxhIGhyZWY9Ii90ZXh0L3JlZnJlc2gvTUlBVFdEQVQrc2h0bWwvMDEwNTU0LnNodG1sPyI+IFRyb3BpY2FsIFdlYXRoZXIgRGlzY3Vzc2lvbjwvYT48L2I+PGJyPjxzcGFuIGNsYXNzPSJ0aW55Ij4yMDUgQU0gRURUIFdFRCBKVU4gMDEgMjAxMTwvc3Bhbj4KPC90ZD4KPC90cj4KPC90YWJsZT4KPC90cj4KPHRyPgo8dGQ+Cjx0YWJsZSBzdHlsZT0iYm9yZGVyOiAwcHggc29saWQgYmxhY2s7IGZvbnQtd2VpZ2h0OiBub3JtYWw7IHdpZHRoOiAxMDAlOyIgYm9yZGVyPSIwIiBjZWxscGFkZGluZz0iMCIgY2VsbHNwYWNpbmc9IjAiPgo8dHI+Cjx0ZCBjb2xzcGFuPSIyIj4KPHRhYmxlIGJvcmRlcj0iMCIgY2VsbHNwYWNpbmc9IjIiIGNlbGxwYWRkaW5nPSIwIiB3aWR0aD0iMTAwJSIgc3R5bGU9ImZvbnQtd2VpZ2h0OiBub3JtYWw7IGJvcmRlci1zdHlsZTogc29saWQ7IGJvcmRlci13aWR0aDogMXB4OyBib3JkZXItY29sb3I6IGJsYWNrIj4KPHRyPjx0ZCBjb2xzcGFuPSI0IiBhbGlnbj0iY2VudGVyIiBjbGFzcz0iaGRyIj5UaGVyZSBhcmUgbm8gdHJvcGljYWwgY3ljbG9uZXMgYXQgdGhpcyB0aW1lLjwvdGQ+PC90cj4KPC90YWJsZT4KPC90ZD48L3RyPjwvdGFibGU+Jm5ic3A7CjwhLS0gRWFzdGVybiBQYWNpZmljIC0tPgo8dGFibGUgYm9yZGVyPSIwIiBjZWxsc3BhY2luZz0iMCIgY2VsbHBhZGRpbmc9IjAiIHdpZHRoPSIxMDAlIj4KPHRyIGFsaWduPSJjZW50ZXIiIHZhbGlnbj0iYm90dG9tIj4KPHRoIGFsaWduPSJsZWZ0IiBub3dyYXA+PHNwYW4gc3R5bGU9ImZvbnQtc2l6ZTogMThweDsiPkVhc3Rlcm4gUGFjaWZpYzwvc3Bhbj4gPHNwYW4gY2xhc3M9InJlZyI+KG91dCB0byAxNDAmZGVnO1cpPC9zcGFuPjwvdGg+Cjx0ZCBhbGlnbj0icmlnaHQiIGNsYXNzPSJyZWciIG5vd3JhcD48L3RkPgo8L3RyPgo8dHI+Cjx0ZCBjb2xzcGFuPSIxIj4KPHRhYmxlIGJvcmRlcj0iMCIgY2VsbHNwYWNpbmc9IjAiIGNlbGxwYWRkaW5nPSIwIiB3aWR0aD0iMTAwJSI+Cjx0cj4KPHRkIGFsaWduPSJsZWZ0Ij4KPGI+PGEgaHJlZj0iL3RleHQvcmVmcmVzaC9NSUFUV09FUCtzaHRtbC8wMTA1MzAuc2h0bWwiPlRyb3BpY2FsIFdlYXRoZXIgT3V0bG9vazwvYT48L2I+PGJyPjxzcGFuIGNsYXNzPSJ0aW55Ij4xMTAwIFBNIFBEVCBUVUUgTUFZIDMxIDIwMTE8L3NwYW4+PC90ZD4KPHRkIGFsaWduPSJyaWdodCI+CjxiPjxhIGhyZWY9Ii90ZXh0L3JlZnJlc2gvTUlBVFdERVArc2h0bWwvMDEwMzQxLnNodG1sPyI+VHJvcGljYWwgV2VhdGhlciBEaXNjdXNzaW9uPC9hPjwvYj48YnI+PHNwYW4gY2xhc3M9InRpbnkiPjA0MDUgVVRDIFdFRCBKVU4gMSAyMDExPC9zcGFuPjwvdGQ+CjwvdHI+CjwvdGFibGU+CjwvdHI+Cjx0cj4KPHRkPgo8dGFibGUgc3R5bGU9ImJvcmRlcjogMHB4IHNvbGlkIGJsYWNrOyBmb250LXdlaWdodDogbm9ybWFsOyB3aWR0aDogMTAwJTsiIGJvcmRlcj0iMCIgY2VsbHBhZGRpbmc9IjAiIGNlbGxzcGFjaW5nPSIwIj4KPHRyPgo8dGQgY29sc3Bhbj0iMiIgPgo8dGFibGUgYm9yZGVyPSIwIiBjZWxsc3BhY2luZz0iMiIgY2VsbHBhZGRpbmc9IjAiIHdpZHRoPSIxMDAlInN0eWxlPSJmb250LXdlaWdodDogbm9ybWFsOyBib3JkZXItc3R5bGU6IHNvbGlkOyBib3JkZXItd2lkdGg6IDFweDsgYm9yZGVyLWNvbG9yOiBibGFjayI+Cjx0cj48dGQgY29sc3Bhbj0iNCIgYWxpZ249ImNlbnRlciIgY2xhc3M9ImhkciI+VGhlcmUgYXJlIG5vIHRyb3BpY2FsIGN5Y2xvbmVzIGF0IHRoaXMgdGltZS48L3RkPjwvdHI+CjwvdGFibGU+CjxzcGFuIGNsYXNzPSJ0aW55Ij48Yj4qPC9iPlNwYW5pc2ggdHJhbnNsYXRpb25zIGNvdXJ0ZXN5IG9mIHRoZSA8YSBocmVmPSJodHRwOi8vd3d3LnNyaC5ub2FhLmdvdi9zanUvIj5OV1MgU2FuIEp1YW4gV2VhdGhlciBGb3JlY2FzdCBPZmZpY2U8L2E+PC9zcGFuPjwvdGFibGU+CjwvdGQ+PC90cj48L3RhYmxlPgo8L3RkPjwvdHI+PC90YWJsZT4KCgoKPCEtLQo8dGFibGUgYm9yZGVyPSIwIiBjZWxsc3BhY2luZz0iNCIgY2VsbHBhZGRpbmc9IjQiIHdpZHRoPSIxMDAlIj4KPHRyIHZhbGlnbj0idG9wIiBhbGlnbj0ibGVmdCI+Cjx0ZCBhbGlnbj0iY2VudGVyIiBzdHlsZT0iYm9yZGVyLXN0eWxlOiBzb2xpZDsgYm9yZGVyLXdpZHRoOiAxcHg7IGJvcmRlci1jb2xvcjogYmxhY2s7CmZvbnQtZmFtaWx5OiBBcmlhbCwgSGVsdmV0aWNhLCBTYW4gU2VyaWY7IGZvbnQtc2l6ZTogMTRweDsgZm9udC13ZWlnaHQ6IGJvbGQ7IGNvbG9yOnJlZDsiPgo8Yj5IaWxkYSBoYXMgbW92ZWQgd2VzdCBvZiAxNDAmZGVnO1cuPGJyPgpUaGUgbGF0ZXN0IGFkdmlzb3JpZXMgb24gSGlsZGEgYXJlIGF2YWlsYWJsZSBmcm9tIHRoZTxicj4KPGEgaHJlZj0iaHR0cDovL3d3dy5wcmgubm9hYS5nb3YvaG5sL2NwaGMvIj5DZW50cmFsIFBhY2lmaWMgSHVycmljYW5lIENlbnRlci48L2E+CjwvYj4KPC90ZD48L3RhYmxlPgotLT4KCjxicj4KCjx0YWJsZSBib3JkZXI9IjAiIGNlbGxzcGFjaW5nPSIzIiBjZWxscGFkZGluZz0iMyIgd2lkdGg9IjEwMCUiPgo8dHIgdmFsaWduPSJ0b3AiIGFsaWduPSJsZWZ0Ij4KPHRkIHdpZHRoPSI1MCUiIGFsaWduPSJjZW50ZXIiIHN0eWxlPSJib3JkZXItc3R5bGU6IHNvbGlkOyBib3JkZXItd2lkdGg6IDFweDsgYm9yZGVyLWNvbG9yOiBibGFjayI+Cgo8YSBjbGFzcz0iaGRyIiBocmVmPSIvcHJlcGFyZSI+SHVycmljYW5lIFByZXBhcmVkbmVzczwvYT4KCjxhIGhyZWY9Ii9IQVcyL2VuZ2xpc2gvaW50cm8uc2h0bWwiPjxpbWcgc3JjPSIvZ2lmcy9wcmVwYXJlX2JlX3NtNC5naWYiIGFsaWduPSJsZWZ0IiB3aWR0aD0iODAiIGhlaWdodD0iODgiIGJvcmRlcj0iMCIgYWx0PSJTaWduIEltYWdlIG9mIEh1cnJpY2FuZSBQcmVwYXJlZG5lc3MiPjwvYT4KCjxicj48cD4KPHNwYW4gY2xhc3M9InRpbnkiIHN0eWxlPSJmb250LXdlaWdodDogbm9ybWFsOyI+TGVhcm4gYWJvdXQgaHVycmljYW5lIGhhemFyZHMgYW5kIHdoYXQgeW91IGNhbiBkbyB0byBoZWxwIHByb3RlY3QKeW91cnNlbGYsIHlvdXIgZmFtaWx5LCBhbmQgeW91cjxicj4gcHJvcGVydHkuPC9zcGFuPjxicj48YnI+CjxkaXYgYWxpZ249ImNlbnRlciI+CjxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0Ij4KPCEtLQpmdW5jdGlvbiBkcm9wZG93bihteVNlbCkKewp2YXIgbXlXaW4sIG15VmFsOwpteVZhbCA9IG15U2VsLm9wdGlvbnNbbXlTZWwuc2VsZWN0ZWRJbmRleF0udmFsdWU7CmlmKG15VmFsKQogICB7CiAgIGlmKG15U2VsLmZvcm0udGFyZ2V0KW15V2luID0gcGFyZW50W215U2VsLmZvcm0udGFyZ2V0XTsKICAgZWxzZSBteVdpbiA9IHdpbmRvdzsKICAgaWYgKCEgbXlXaW4pIHJldHVybiB0cnVlOwogICBteVdpbi5sb2NhdGlvbiA9IG15VmFsOwogICB9CnJldHVybiBmYWxzZTsKfQovLy0tPgo8L3NjcmlwdD4KCjxmb3JtIGNsYXNzPSJzZWFyY2hpbnB1dCIgYWN0aW9uPSJudWxsIiBtZXRob2Q9cG9zdCBvblN1Ym1pdD0icmV0dXJuIGRyb3Bkb3duKHRoaXMuZ291cmwpIj4KPHNlbGVjdCBuYW1lPSJnb3VybCI+CjxvcHRpb24gdmFsdWU9IiI+RW1lcmdlbmN5IE1hbmFnZW1lbnQgT2ZmaWNlcwo8b3B0aW9uIHZhbHVlPSIiPi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCjxvcHRpb24gdmFsdWU9Ii9uaGNleGl0LnNodG1sP2h0dHA6Ly9lbWEuYWxhYmFtYS5nb3YvIj5BbGFiYW1hCjxvcHRpb24gdmFsdWU9Ii9uaGNleGl0LnNodG1sP2h0dHA6Ly93d3cuYWRlbS5hcmthbnNhcy5nb3YvIj5BcmthbnNhcwo8b3B0aW9uIHZhbHVlPSIvbmhjZXhpdC5zaHRtbD9odHRwOi8vd3d3Lm9lcy5jYS5nb3YvT3BlcmF0aW9uYWwvT0VTSG9tZS5uc2YvMT9PcGVuRm9ybSI+Q2FsaWZvcm5pYQo8b3B0aW9uIHZhbHVlPSIvbmhjZXhpdC5zaHRtbD9odHRwOi8vd3d3LmN0Lmdvdi9vZW0vc2l0ZS9kZWZhdWx0LmFzcCI+Q29ubmVjdGljdXQKPG9wdGlvbiB2YWx1ZT0iL25oY2V4aXQuc2h0bWw/aHR0cDovL2RlbWEuZGVsYXdhcmUuZ292LyI+RGVsYXdhcmUKPG9wdGlvbiB2YWx1ZT0iL25oY2V4aXQuc2h0bWw/aHR0cDovL3d3dy5kY2VtYS5kYy5nb3YvIj5XYXNoaW5ndG9uIEQuQy4KPG9wdGlvbiB2YWx1ZT0iL25oY2V4aXQuc2h0bWw/aHR0cDovL3d3dy5mbG9yaWRhZGlzYXN0ZXIub3JnLyI+RmxvcmlkYQo8b3B0aW9uIHZhbHVlPSIvbmhjZXhpdC5zaHRtbD9odHRwOi8vd3d3LmdlbWEuc3RhdGUuZ2EudXMvIj5HZW9yZ2lhCjxvcHRpb24gdmFsdWU9Ii9uaGNleGl0LnNodG1sP2h0dHA6Ly93d3cuc2NkLnN0YXRlLmhpLnVzLyI+SGF3YWlpCjxvcHRpb24gdmFsdWU9Ii9uaGNleGl0LnNodG1sP2h0dHA6Ly9reWVtLmt5Lmdvdi8iPktlbnR1Y2t5CjxvcHRpb24gdmFsdWU9Ii9uaGNleGl0LnNodG1sP2h0dHA6Ly93d3cuZ29oc2VwLmxhLmdvdi8iPkxvdWlzaWFuYQo8b3B0aW9uIHZhbHVlPSIvbmhjZXhpdC5zaHRtbD9odHRwOi8vd3d3Lm1haW5lLmdvdi9tZW1hLyI+TWFpbmUKPG9wdGlvbiB2YWx1ZT0iL25oY2V4aXQuc2h0bWw/aHR0cDovL3d3dy5tZW1hLnN0YXRlLm1kLnVzL01FTUEvaW5kZXguanNwIj5NYXJ5bGFuZAo8b3B0aW9uIHZhbHVlPSIvbmhjZXhpdC5zaHRtbD9odHRwOi8vd3d3LnN0YXRlLm1hLnVzL21lbWEiPk1hc3NhY2h1c2V0dHMKPG9wdGlvbiB2YWx1ZT0iL25oY2V4aXQuc2h0bWw/aHR0cDovL3d3dy5tc2VtYS5vcmcvIj5NaXNzaXNzaXBwaQo8b3B0aW9uIHZhbHVlPSIvbmhjZXhpdC5zaHRtbD9odHRwOi8vc2VtYS5kcHMubW8uZ292L3NlbWFwYWdlLmh0bSI+TWlzc291cmkKPG9wdGlvbiB2YWx1ZT0iL25oY2V4aXQuc2h0bWw/aHR0cDovL3d3dy5uaC5nb3Yvc2FmZXR5L2RpdmlzaW9ucy9lbWVyZ3NlcnZpY2VzL2JlbS9pbmRleC5odG1sIj5OZXcgSGFtcHNoaXJlCjxvcHRpb24gdmFsdWU9Ii9uaGNleGl0LnNodG1sP2h0dHA6Ly93d3cuc3RhdGUubmoudXMvbmpvZW0vIj5OZXcgSmVyc2V5CjxvcHRpb24gdmFsdWU9Ii9uaGNleGl0LnNodG1sP2h0dHA6Ly93d3cuc2Vtby5zdGF0ZS5ueS51cy8iPk5ldyBZb3JrCjxvcHRpb24gdmFsdWU9Ii9uaGNleGl0LnNodG1sP2h0dHA6Ly93d3cubmNlbS5vcmcvIj5Ob3J0aCBDYXJvbGluYQo8b3B0aW9uIHZhbHVlPSIvbmhjZXhpdC5zaHRtbD9odHRwOi8vd3d3Lm9rLmdvdi9vZW0vIj5Pa2xhaG9tYQo8b3B0aW9uIHZhbHVlPSIvbmhjZXhpdC5zaHRtbD9odHRwOi8vd3d3LnBlbWEuc3RhdGUucGEudXMvIj5QZW5uc3lsdmFuaWEKPG9wdGlvbiB2YWx1ZT0iL25oY2V4aXQuc2h0bWw/aHR0cDovL3d3dy5nb2JpZXJuby5wci9hZW1lYWQvaW5pY2lvIj5QdWVydG8gUmljbwo8b3B0aW9uIHZhbHVlPSIvbmhjZXhpdC5zaHRtbD9odHRwOi8vd3d3LnJpZW1hLnJpLmdvdi8iPlJob2RlIElzbGFuZAo8b3B0aW9uIHZhbHVlPSIvbmhjZXhpdC5zaHRtbD9odHRwOi8vd3d3LnNjZW1kLm9yZy8iPlNvdXRoIENhcm9saW5hCjxvcHRpb24gdmFsdWU9Ii9uaGNleGl0LnNodG1sP2h0dHA6Ly93d3cudG5lbWEub3JnLyI+VGVubmVzc2VlCjxvcHRpb24gdmFsdWU9Ii9uaGNleGl0LnNodG1sP2h0dHA6Ly93d3cudHhkcHMuc3RhdGUudHgudXMvZGVtL3BhZ2VzL2luZGV4Lmh0bSI+VGV4YXMKPG9wdGlvbiB2YWx1ZT0iL25oY2V4aXQuc2h0bWw/aHR0cDovL3d3dy5kcHMuc3RhdGUudnQudXMvdmVtLyI+VmVybW9udAo8b3B0aW9uIHZhbHVlPSIvbmhjZXhpdC5zaHRtbD9odHRwOi8vd3d3LnZpdGVtYS5nb3YvIj5WaXJnaW4gSXNsYW5kcwo8b3B0aW9uIHZhbHVlPSIvbmhjZXhpdC5zaHRtbD9odHRwOi8vd3d3LnZkZW0uc3RhdGUudmEudXMvIj5WaXJnaW5pYQo8b3B0aW9uIHZhbHVlPSIvbmhjZXhpdC5zaHRtbD9odHRwOi8vd3d3Lnd2ZGhzZW0uZ292LyI+V2VzdCBWaXJnaW5pYQo8L3NlbGVjdD4KPGlucHV0IHR5cGU9c3VibWl0IHZhbHVlPSJHbyI+CjwvZm9ybT4KCjwvZGl2PgoKPC90ZD48dGQgd2lkdGg9IjUwJSIgY2xhc3M9InN0ZCIgc3R5bGU9ImJvcmRlci1zdHlsZTogc29saWQ7IGJvcmRlci13aWR0aDogMXB4OyBib3JkZXItY29sb3I6IGJsYWNrIj4KCgo8Y2VudGVyPgoKPGEgY2xhc3M9ImhkciIgaHJlZj0iL2Fib3V0cnNtYy5zaHRtbD8iPlRyb3BpY2FsIEN5Y2xvbmUgQ2VudGVycyBXb3JsZHdpZGU8L2E+Cgo8L2NlbnRlcj4KCjx1bCB0eXBlPSJjaXJjbGUiPgo8bGkgY2xhc3M9InJlZyIgc3R5bGU9ImZvbnQtd2VpZ2h0OiBub3JtYWw7Ij48YSBocmVmPSJodHRwOi8vd3d3LnByaC5ub2FhLmdvdi9obmwvY3BoYy8iPkNlbnRyYWwgUGFjaWZpYyBIdXJyaWNhbmUgQ2VudGVyPC9hPgo8bGkgY2xhc3M9InJlZyIgc3R5bGU9ImZvbnQtd2VpZ2h0OiBub3JtYWw7Ij48YSBocmVmPSIvbmhjZXhpdC5zaHRtbD9odHRwOi8vd3d3LnVzbm8ubmF2eS5taWwvSlRXQyI+Sm9pbnQgVHlwaG9vbiBXYXJuaW5nIENlbnRlcjwvYT4KPGxpIGNsYXNzPSJyZWciIHN0eWxlPSJmb250LXdlaWdodDogbm9ybWFsOyI+PGEgaHJlZj0iL25oY2V4aXQuc2h0bWw/aHR0cDovL3d3dy5lYy5nYy5jYS9vdXJhZ2Fucy1odXJyaWNhbmVzLyI+Q2FuYWRpYW4gSHVycmljYW5lIENlbnRyZTwvYT4KPGxpIGNsYXNzPSJyZWciIHN0eWxlPSJmb250LXdlaWdodDogbm9ybWFsOyI+PGEgaHJlZj0iL25oY2V4aXQuc2h0bWw/aHR0cDovL3NldmVyZS53b3JsZHdlYXRoZXIub3JnLyI+V01PIFNldmVyZSBXZWF0aGVyIEluZm8gQ2VudHJlPC9hPgo8L3VsPgoKPGNlbnRlcj4KCjxhIGNsYXNzPSJoZHIiIGhyZWY9Ii9nY2NhbGMuc2h0bWw/Ij5MYXQvTG9uIERpc3RhbmNlIENhbGN1bGF0b3I8L2E+PGJyPgo8c3BhbiBjbGFzcz0idGlueSI+RmluZCBkaXN0YW5jZSBiZXR3ZWVuIGxhdGl0dWRlL2xvbmdpdHVkZSBwb2ludHM8L3NwYW4+Cgo8L2NlbnRlcj4KCgo8L3RkPjwvdHI+PC90YWJsZT4KCgo8dGFibGUgc3R5bGU9InRleHQtYWxpZ246IGxlZnQ7IHdpZHRoOiAxMDAlOyIgYm9yZGVyPSIwIiBjZWxscGFkZGluZz0iMCIgY2VsbHNwYWNpbmc9IjAiPgo8dGJvZHk+Cjx0cj4KIDx0ZCBjb2xzcGFuPSIzIiByb3dzcGFuPSIxIiBzdHlsZT0iZm9udC1mYW1pbHk6IEFyaWFsLEhlbHZldGljYSxTYW4gU2VyaWY7IGZvbnQtc2l6ZTogMTVweDsgZm9udC13ZWlnaHQ6IGJvbGQ7IHZlcnRpY2FsLWFsaWduOiBib3R0b207IGhlaWdodDogMzRweDsiPkh1cnJpY2FuZSBTZWFzb24gRGF0ZXM8L3RkPgo8L3RyPgo8dHI+CiA8dGQ+SHVycmljYW5lIHNlYXNvbiBpbiB0aGUgPGEgaHJlZj0iL2d0d29fYXRsLnNodG1sIj5BdGxhbnRpYzwvYT4gYmVnaW5zIEp1bmUgMXN0IGFuZCBlbmRzIE5vdmVtYmVyIDMwdGguIApUaGUgPGEgaHJlZj0iL2d0d29fZXBhYy5zaHRtbCI+RWFzdGVybiBQYWNpZmljPC9hPiBodXJyaWNhbmUgc2Vhc29uIGJlZ2lucyBNYXkgMTV0aCBhbmQgYWxzbyBlbmRzIE5vdmVtYmVyIDMwdGguPC90ZD4KPC90cj4KPC90Ym9keT4KPC90YWJsZT4KCjx0YWJsZSBzdHlsZT0idGV4dC1hbGlnbjogbGVmdDsgd2lkdGg6IDk1JTsiIGJvcmRlcj0iMCIgY2VsbHBhZGRpbmc9IjAiIGNlbGxzcGFjaW5nPSIwIj4KPHRib2R5Pgo8dHI+Cjx0ZCBjb2xzcGFuPSI5IiBzdHlsZT0iZm9udC1mYW1pbHk6IEFyaWFsLCBIZWx2ZXRpY2EsIFNhbiBTZXJpZjsgZm9udC1zaXplOiAxNXB4Owpmb250LXdlaWdodDogYm9sZDsgdmVydGljYWwtYWxpZ246IGJvdHRvbTsgaGVpZ2h0OiAzNHB4OyI+MjAxMCBTZWFzb24gU3VtbWFyaWVzIGFuZCBSZXBvcnRzPC90ZD4KPHRkPjwvdGQ+PHRkPjwvdGQ+PHRkPjwvdGQ+PHRkPjwvdGQ+PHRkPjwvdGQ+PHRkPjwvdGQ+PHRkPjwvdGQ+PHRkPjwvdGQ+IDwvdHI+Cjx0cj4KPHRkIHN0eWxlPSJmb250LXdlaWdodDogYm9sZDsgdGV4dC1hbGlnbjogbGVmdDsgd2lkdGg6IDE4JTsgaGVpZ2h0OiAxN3B4OyI+QXRsYW50aWM6CjwvdGQ+Cjx0ZD48L3RkPgo8dGQ+PGEgaHJlZj0iL2FyY2hpdmUvMjAxMC90d3MvTUlBVFdTQVRfanVuLnNodG1sPyI+SnVuPC9hPjwvdGQ+Cjx0ZD48YSBocmVmPSIvYXJjaGl2ZS8yMDEwL3R3cy9NSUFUV1NBVF9qdWwuc2h0bWw/Ij5KdWw8L2E+PC90ZD4KPHRkPjxhIGhyZWY9Ii9hcmNoaXZlLzIwMTAvdHdzL01JQVRXU0FUX2F1Zy5zaHRtbD8iPkF1ZzwvYT48L3RkPgo8dGQ+PGEgaHJlZj0iL2FyY2hpdmUvMjAxMC90d3MvTUlBVFdTQVRfc2VwLnNodG1sPyI+U2VwPC9hPjwvdGQ+Cjx0ZD48YSBocmVmPSIvYXJjaGl2ZS8yMDEwL3R3cy9NSUFUV1NBVF9vY3Quc2h0bWw/Ij5PY3Q8L2E+PC90ZD4KPHRkPjxhIGhyZWY9Ii9hcmNoaXZlLzIwMTAvdHdzL01JQVRXU0FUX25vdi5zaHRtbD8iPk5vdjwvYT48L3RkPgo8dGQ+PGEgaHJlZj0iLzIwMTBhdGxhbi5zaHRtbCI+VHJvcGljYWwgQ3ljbG9uZSBSZXBvcnRzPC9hPjwvdGQ+CjwvdHI+Cjx0cj48dGQgc3R5bGU9ImZvbnQtd2VpZ2h0OiBib2xkOyB0ZXh0LWFsaWduOiBsZWZ0OyI+RWFzdCBQYWNpZmljOjwvdGQ+Cjx0ZD48YSBocmVmPSIvYXJjaGl2ZS8yMDEwL3R3cy9NSUFUV1NFUF9tYXkuc2h0bWw/Ij5NYXk8L2E+PC90ZD4KPHRkPjxhIGhyZWY9Ii9hcmNoaXZlLzIwMTAvdHdzL01JQVRXU0VQX2p1bi5zaHRtbD8iPkp1bjwvYT48L3RkPgo8dGQ+PGEgaHJlZj0iL2FyY2hpdmUvMjAxMC90d3MvTUlBVFdTRVBfanVsLnNodG1sPyI+SnVsPC9hPjwvdGQ+Cjx0ZD48YSBocmVmPSIvYXJjaGl2ZS8yMDEwL3R3cy9NSUFUV1NFUF9hdWcuc2h0bWw/Ij5BdWc8L2E+PC90ZD4KPHRkPjxhIGhyZWY9Ii9hcmNoaXZlLzIwMTAvdHdzL01JQVRXU0VQX3NlcC5zaHRtbD8iPlNlcDwvYT48L3RkPgo8dGQ+PGEgaHJlZj0iL2FyY2hpdmUvMjAxMC90d3MvTUlBVFdTRVBfb2N0LnNodG1sPyI+T2N0PC9hPjwvdGQ+Cjx0ZD48YSBocmVmPSIvYXJjaGl2ZS8yMDEwL3R3cy9NSUFUV1NFUF9ub3Yuc2h0bWw/Ij5Ob3Y8L2E+PC90ZD4KPHRkPjxhIGhyZWY9Ii8yMDEwZXBhYy5zaHRtbCI+VHJvcGljYWwgQ3ljbG9uZSBSZXBvcnRzPC9hPjwvdGQ+CjwvdHI+CjwvdGJvZHk+CjwvdGFibGU+Cgo8IS0tIEVYQU1QTEVTIGZvciBUV1NBVCAmIFRXU0VQIC0tPgo8IS0tIFNvdXJjZSBmaWxlcyBpbiB+L2RvY3MvZnRwL3B1Yi9mb3JlY2FzdHMvZGlzY3Vzc2lvbi8gLSBjb3B5IHRvIGZpbmFsIGRpcmVjdG9yeSAtLT4KPCEtLQo8YSBocmVmPSIvYXJjaGl2ZS8yMDA2L3R3cy9NSUFUV1NBVF9qdW4uc2h0bWw/Ij4KLS0+CjwhLS0KPGEgaHJlZj0iL2FyY2hpdmUvMjAwNi90d3MvTUlBVFdTRVBfanVsLnNodG1sPyI+Ci0tPgoKPHRhYmxlIHN0eWxlPSJ0ZXh0LWFsaWduOiBsZWZ0OyB3aWR0aDogMTAwJTsiIGJvcmRlcj0iMCIgY2VsbHBhZGRpbmc9IjAiIGNlbGxzcGFjaW5nPSIwIj4KPHRib2R5Pgo8dHI+CiA8dGQgY29sc3Bhbj0iMyIgcm93c3Bhbj0iMSIgc3R5bGU9ImZvbnQtZmFtaWx5OiBBcmlhbCxIZWx2ZXRpY2EsU2FuIFNlcmlmOyBmb250LXNpemU6IDE1cHg7IGZvbnQtd2VpZ2h0OiBib2xkOyB2ZXJ0aWNhbC1hbGlnbjogYm90dG9tOyBoZWlnaHQ6IDM0cHg7Ij5CbGFuayBUcmFja2luZyBDaGFydHM8L3RkPgo8L3RyPgo8dHI+CiA8dGQ+PGEgaHJlZj0iL3RyYWNraW5nX2NoYXJ0cy5zaHRtbCI+TmV3IEF0bGFudGljIGFuZCBFYXN0ZXJuIFBhY2lmaWMgaHVycmljYW5lIHRyYWNraW5nIGNoYXJ0czwvYT4gYXJlIGF2YWlsYWJsZSBmb3IgZG93bmxvYWQuPC90ZD4KPC90cj4KPC90Ym9keT4KPC90YWJsZT4KCjx0YWJsZSBzdHlsZT0idGV4dC1hbGlnbjogbGVmdDsgd2lkdGg6IDEwMCU7IiBib3JkZXI9IjAiIGNlbGxwYWRkaW5nPSIwIiBjZWxsc3BhY2luZz0iMCI+Cjx0Ym9keT4KPHRyPgogPHRkIGNvbHNwYW49IjIiIHJvd3NwYW49IjEiIHN0eWxlPSJmb250LWZhbWlseTogQXJpYWwsSGVsdmV0aWNhLFNhbiBTZXJpZjsgZm9udC1zaXplOiAxNXB4OyBmb250LXdlaWdodDogYm9sZDsgdmVydGljYWwtYWxpZ246IGJvdHRvbTsgaGVpZ2h0OiAzNHB4OyI+QWRkaXRpb25hbCBSZXNvdXJjZXM8L3RkPgo8L3RyPgo8dHI+CiA8dGQ+PGEgaHJlZj0iYWJvdXRwdWJzLnNodG1sPyI+TkhDIFB1YmxpY2F0aW9uczwvYT4gYW5kIDxhIGhyZWY9Ii9xX2FuZF9hLnNodG1sIj5RICZhbXA7IEEgZm9yIE5IQzwvYT48L3RkPgogPHRkPjxhIGhyZWY9InJhZGlvZmF4LnNodG1sPyI+UmFkaW9mYXggQnJvYWRjYXN0IFNjaGVkdWxlPC9hPjwvdGQ+CjwvdHI+Cjx0cj4KIDx0ZD48YSBocmVmPSJodHRwOi8vd3d3Lm9mY20ubm9hYS5nb3YvbmhvcC8xMC9uaG9wMTAuaHRtIj5OYXRpb25hbCBIdXJyaWNhbmUgT3BlcmF0aW9ucyBQbGFuPC9hPjwvdGQ+CiA8dGQ+PGEgaHJlZj0iYWJvdXRsaW5rcy5zaHRtbCI+TkhDIEV4dGVybmFsIExpbmtzIEluZGV4PC9hPjwvdGQ+CjwvdHI+Cjx0cj4KIDx0ZD48YSBocmVmPSJodHRwOi8vd3d3Lm53cy5ub2FhLmdvdi9vbS9icm9jaHVyZXMuc2h0bWwiPkh1cnJpY2FuZSBhbmQgTmF0dXJhbCBEaXNhc3RlciBCcm9jaHVyZXM8L2E+PC90ZD4KIDx0ZD48IS0tPGEgaHJlZj0ibWFyaW5lcnNndWlkZS5wZGYiPi0tPjxhIGhyZWY9Ii9tYXJpbmVyc2d1aWRlLnNodG1sIj5NYXJpbmVyJ3MgR3VpZGUgZm9yIEh1cnJpY2FuZSBBd2FyZW5lc3M8L2E+PC90ZD4KPC90cj4KPHRyPgogPHRkPjxhIGhyZWY9Imh0dHBzOi8vbnNkLnJkYy5ub2FhLmdvdi9leHRzdGFmZi9zZWFyY2giPk5PQUEgU3RhZmYgRGlyZWN0b3J5PC9hPjwvdGQ+CiA8dGQ+PGEgaHJlZj0iL291dHJlYWNoL2luZGV4LnNodG1sPyI+T3V0cmVhY2ggRWR1Y2F0aW9uICZhbXA7IFByZXNlbnRhdGlvbnM8L2E+PC90ZD4KPC90cj4KPHRyPgogPHRkPjxhIGhyZWY9Ii9uaGNleGl0LnNodG1sP2h0dHA6Ly93d3cud3g0bmhjLm9yZyI+V1g0TkhDIFJhZGlvPC9hPjwvdGQ+CiA8dGQ+Jm5ic3A7PC90ZD4KPC90cj4KPC90Ym9keT4KPC90YWJsZT4KCgoKCiAgICAgIDwhLS0gU2V0IGZyb20gYXJjaGl2ZS5wbCBmb3IgTEFOQSBjcm9zc2luZyAxNDBXIC0tPgogICAgICAKCiAgICAgIDwhLS0gRU5EIE9GIENPTlRFTlQgLS0+CgogICAgICA8YnI+PGhyIHdpZHRoPSIxMDAlIiBhbGlnbj0ibGVmdCI+CiAgICAgIDwvdGQ+CiAgICAgIDwvdHI+CiAgICAgIDwvdGJvZHk+CiAgICA8L3RhYmxlPgogICAgCiAgICA8dGFibGUgY2VsbHNwYWNpbmc9IjAiIGNlbGxwYWRkaW5nPSIwIiBib3JkZXI9IjAiIHdpZHRoPSIxMDAlIiBhbGlnbj0ibGVmdCI+CiAgICAgIDx0Ym9keT4KICAgICAgICA8dHIgYWxpZ249ImNlbnRlciI+CiAgICAgICAgICA8dGQ+UXVpY2sgTmF2aWdhdGlvbiBMaW5rczo8YnI+CiAgICAgICAgICAgIDxhIGhyZWY9Ii9uaGNfc3Rvcm1zLnNodG1sIj5OSEMgQWN0aXZlIFN0b3JtczwvYT4gJm5ic3A7LSZuYnNwOyA8YSBocmVmPSIvbWFyaW5lX2ZvcmVjYXN0cy5zaHRtbCI+QXRsYW50aWMgYW5kIEUgUGFjaWZpYyBNYXJpbmU8L2E+ICZuYnNwOy0mbmJzcDsgPGEgaHJlZj0iL3Bhc3RhbGwuc2h0bWwiPlN0b3JtIEFyY2hpdmVzPC9hPjxicj4KICAgICAgICAgICAgPGEgaHJlZj0iaHR0cDovL3d3dy53ZWF0aGVyLmdvdi9vcy9odXJyaWNhbmUvaW5kZXguc2h0bWwiPkh1cnJpY2FuZSBBd2FyZW5lc3M8L2E+ICZuYnNwOy0mbmJzcDsgPGEgaHJlZj0iL0hBVzIvZW5nbGlzaC9pbnRyby5zaHRtbCI+SG93IHRvIFByZXBhcmU8L2E+ICZuYnNwOy0mbmJzcDsgPGEgaHJlZj0iL2Fib3V0aW50cm8uc2h0bWwiPkFib3V0IE5IQzwvYT4gJm5ic3A7LSZuYnNwOyA8YSBocmVmPSIvY29udGFjdC5zaHRtbCI+Q29udGFjdCBVczwvYT4KICAgICAgICAgIDwvdGQ+CiAgICAgICAgPC90cj4KICAgICAgPC90Ym9keT4KICAgIDwvdGFibGU+CiAgICA8L3RyPgogICAgPHRyPgogICAgIDx0ZD4KICAgICA8L3RkPgo8L3RyPgo8L3Rib2R5Pgo8L3RhYmxlPgogICAgCjwhLS0gRW5kIG9mIG1haW4gYm9keSAtLT4KCiAgICAgIDx0YWJsZSBjZWxsU3BhY2luZz0iMCIgY2VsbFBhZGRpbmc9IjAiIHdpZHRoPSIxMDAlIiBib3JkZXI9IjAiIGFsaWduPSJsZWZ0Ij4KICAgICAgICA8dGJvZHk+CgogICAgICAgIDwhLS0gTm93IGxvYWQgdGhlIE5IQyBzdGFuZGFyZCBmb290ZXIgLS0+CiAgICAgICAgPCEtLSBCZWdpbiBOSEMgc3RhbmRhcmQgZm9vdGVyIC0tPgogIDx0cj4KICAgIDx0ZCBjb2xzcGFuPSIzIj48aHIgd2lkdGg9IjEwMCUiIGFsaWduPSJsZWZ0Ij48L3RkPgogIDwvdHI+CiAgICA8dHIgdmFsaWduPSJ0b3AiPgogICAgPHRkIGNsYXNzPSJncmF5Ij4KICAgICAgPGEgaHJlZj0iaHR0cDovL3d3dy5ub2FhLmdvdi8iPjxzcGFuIGNsYXNzPSJncmF5Ij5OT0FBLzwvc3Bhbj48L2E+CiAgICAgIDxhIGhyZWY9Imh0dHA6Ly93d3cubndzLm5vYWEuZ292LyI+PHNwYW4gY2xhc3M9ImdyYXkiPk5hdGlvbmFsIFdlYXRoZXIgU2VydmljZTwvc3Bhbj48L2E+PGJyPgogICAgICA8YSBocmVmPSJodHRwOi8vd3d3Lm5jZXAubm9hYS5nb3YvIj48c3BhbiBjbGFzcz0iZ3JheSI+TmF0aW9uYWwgQ2VudGVycyBmb3IgRW52aXJvbm1lbnRhbCBQcmVkaWN0aW9uPC9zcGFuPjwvYT48YnI+CiAgICAgIE5hdGlvbmFsIEh1cnJpY2FuZSBDZW50ZXI8YnI+CiAgICAgIDExNjkxIFNXIDE3dGggU3RyZWV0PGJyPgogICAgICBNaWFtaSwgRmxvcmlkYSAzMzE2NS0yMTQ5IFVTQTxicj4KICAgICAgPGEgaHJlZj0ibWFpbHRvOm5oY3dlYm1hc3RlckBub2FhLmdvdj9zdWJqZWN0PVtOSEMgd2ViIGZlZWRiYWNrXSI+PHNwYW4gY2xhc3M9ImdyYXkiPm5oY3dlYm1hc3RlckBub2FhLmdvdjwvc3Bhbj48L2E+CiAgICA8L3RkPgogICAgPHRkPjxhIGhyZWY9Imh0dHA6Ly93d3cud2VhdGhlci5nb3YvZGlzY2xhaW1lci5waHAiPjxzcGFuIGNsYXNzPSJncmF5Ij5EaXNjbGFpbWVyPC9zcGFuPjwvYT48YnI+CiAgICAgIDxhIGhyZWY9Imh0dHA6Ly93d3cud2VhdGhlci5nb3YvY3JlZGl0cy5waHAiPjxzcGFuIGNsYXNzPSJncmF5Ij5DcmVkaXRzPC9zcGFuPjwvYT48YnI+CiAgICAgIDxhIGhyZWY9Imh0dHA6Ly93d3cuY2lvLm5vYWEuZ292L1BvbGljeV9Qcm9ncmFtcy9pbmZvX3F1YWxpdHkuaHRtbCI+PHNwYW4gY2xhc3M9ImdyYXkiPkluZm9ybWF0aW9uIFF1YWxpdHk8L3NwYW4+PC9hPjxicj4KICAgICAgPGEgaHJlZj0iaHR0cDovL3d3dy53ZWF0aGVyLmdvdi9nbG9zc2FyeS8iPjxzcGFuIGNsYXNzPSJncmF5Ij5HbG9zc2FyeTwvc3Bhbj48L2E+PGJyPgogICAgPC90ZD4KICAgIDx0ZCBhbGlnbj0icmlnaHQiPjxhIGhyZWY9Imh0dHA6Ly93d3cud2VhdGhlci5nb3YvcHJpdmFjeS5waHAiPjxzcGFuIGNsYXNzPSJncmF5Ij5Qcml2YWN5IFBvbGljeTwvc3Bhbj48L2E+PGJyPgogICAgICA8YSBocmVmPSJodHRwOi8vd3d3Lm9zZWMuZG9jLmdvdi9vbW8vRk9JQS9GT0lBV2Vic2l0ZS5odG0iPjxzcGFuIGNsYXNzPSJncmF5Ij5GcmVlZG9tIG9mIEluZm9ybWF0aW9uIEFjdCAoRk9JQSk8L3NwYW4+PC9hPjxicj4KICAgICAgPGEgaHJlZj0iaHR0cDovL3d3dy53ZWF0aGVyLmdvdi9hZG1pbi5waHAiPjxzcGFuIGNsYXNzPSJncmF5Ij5BYm91dCBVczwvc3Bhbj48L2E+PGJyPgogICAgICA8YSBocmVmPSJodHRwOi8vd3d3LndlYXRoZXIuZ292L2NhcmVlcnMucGhwIj48c3BhbiBjbGFzcz0iZ3JheSI+Q2FyZWVyIE9wcG9ydHVuaXRpZXM8L3NwYW4+PC9hPjxicj4KICAgIDwvdGQ+CiAgICA8L3RyPgo8IS0tIEVuZCBOSEMgc3RhbmRhcmQgZm9vdGVyIC0tPgoKICAgICAgICA8dHIgdmFsaWduPSJ0b3AiPgogICAgICAgICAgPHRkIGNsYXNzPSJncmF5IiBjb2xzcGFuPSIzIj4KICAgICAgICAgICAgUGFnZSBsYXN0IG1vZGlmaWVkOiBGcmlkYXksIDIwLU1heS0yMDExIDE0OjA3OjUwIFVUQwogICAgICAgICAgPC90ZD4KICAgICAgICA8L3RyPgogICAgICAgIDwvdGJvZHk+CiAgICAgIDwvdGFibGU+CiAgICA8L3RkPgogIDwvdHI+CiAgPC90Ym9keT4KPC90YWJsZT4KPC9ib2R5Pgo8L2h0bWw+CgogCgoKCg==</Value>
+        </Feature>
+        <Feature>
+          <Name>_guid</Name>
+          <Value>6daf6b78-3f68-1eb0-24a5-312c7b755f27</Value>
+        </Feature>
+        <Feature>
+          <Name>_time</Name>
+          <Value>2011-06-01 09:48:00 +02:00</Value>
+        </Feature>
+      </Features>
+    </Document>
+  </Documents>
+</DocumentCorpus>
