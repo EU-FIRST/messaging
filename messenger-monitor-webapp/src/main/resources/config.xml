@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<pipelinemonitor>
+	<debug>false</debug>
+	<interval>60000</interval>
+	<component>
+		<name>Preprocessing+Classification-1</name>
+		<address>tcp://95.87.154.97:4460</address>
+	</component>
+	<component>
+		<name>Preprocessing+Classification-2</name>
+		<address>tcp://95.87.154.97:4470</address>
+	</component>
+	<component>
+		<name>Preprocessing+Classification-3</name>
+		<address>tcp://95.87.154.97:4480</address>
+	</component>
+	<component>
+		<name>Preprocessing+Classification-4</name>
+		<address>tcp://95.87.154.97:4490</address>
+	</component>
+</pipelinemonitor>

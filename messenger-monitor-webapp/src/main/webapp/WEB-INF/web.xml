@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns="http://java.sun.com/xml/ns/javaee"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_3_0.xsd"
+         metadata-complete="true"
+         version="3.0">
+ 
+
+
+	<display-name>FIRST pipeline monitoring</display-name>
+	<context-param>
+		<param-name>db.url</param-name>
+		<param-value>jdbc:h2:tcp://localhost/~/monitoring</param-value>
+	</context-param>
+	<context-param>
+		<param-name>db.user</param-name>
+		<param-value>sa</param-value>
+	</context-param>
+	<context-param>
+		<param-name>db.password</param-name>
+		<param-value>sa</param-value>
+	</context-param>
+	<context-param>
+		<param-name>db.tcpServer</param-name>
+		<param-value>-tcpAllowOthers</param-value>
+	</context-param>
+	<listener>
+		<listener-class>org.h2.server.web.DbStarter</listener-class>
+	</listener>
+
+	<servlet>
+		<servlet-name>default</servlet-name>
+		<servlet-class>org.eclipse.jetty.servlet.DefaultServlet
+		</servlet-class>
+		<init-param>
+			<param-name>welcomeServlets</param-name>
+			<param-value>true</param-value>
+		</init-param>
+	</servlet>
+
+	<servlet-mapping>
+		<servlet-name>default</servlet-name>
+		<url-pattern>/</url-pattern>
+	</servlet-mapping>
+	
+	<!-- 
+ 	<servlet>
+		<servlet-name>Stats Init</servlet-name>
+		<servlet-class>eu.first.integration.monitoring.StatisticsServlet</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>Stats Init</servlet-name>
+		<url-pattern>/init</url-pattern>
+	</servlet-mapping>
+	
+ 	<servlet>
+		<servlet-name>Display Stats</servlet-name>
+		<servlet-class>eu.first.integration.monitoring.DisplayStatsServlet</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>Display Stats</servlet-name>
+		<url-pattern>/stats</url-pattern>
+	</servlet-mapping>
+ 	 -->
+ 	<servlet>
+		<servlet-name>Datasource 1</servlet-name>
+		<servlet-class>eu.first.integration.datasource.StatTimeSeriesServlet</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>Datasource 1</servlet-name>
+		<url-pattern>/GetReceiveTimeSeries</url-pattern>
+	</servlet-mapping>
+
+ 	<servlet>
+		<servlet-name>Datasource 2</servlet-name>
+		<servlet-class>eu.first.integration.datasource.LostOnReceiveTimeSeriesServlet</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>Datasource 2</servlet-name>
+		<url-pattern>/GetLostOnReceiveTimeSeries</url-pattern>
+	</servlet-mapping>
+
+ 	<servlet>
+		<servlet-name>Datasource 3</servlet-name>
+		<servlet-class>eu.first.integration.datasource.StatTimeSeriesAggregatedServlet</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>Datasource 3</servlet-name>
+		<url-pattern>/GetReceiveTimeSeriesAggregated</url-pattern>
+	</servlet-mapping>
+
+ 	<servlet>
+		<servlet-name>Datasource 4</servlet-name>
+		<servlet-class>eu.first.integration.datasource.LostOnReceiveTimeSeriesAggregatedServlet</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>Datasource 4</servlet-name>
+		<url-pattern>/GetLostOnReceiveTimeSeriesAggregated</url-pattern>
+	</servlet-mapping>
+
+	<servlet>
+		<servlet-name>H2Console</servlet-name>
+		<servlet-class>org.h2.server.web.WebServlet</servlet-class>
+		<init-param>
+			<param-name>webAllowOthers</param-name>
+			<param-value>true</param-value>
+		</init-param>
+		<load-on-startup>1</load-on-startup>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>H2Console</servlet-name>
+		<url-pattern>/console/*</url-pattern>
+	</servlet-mapping>
+
+	<welcome-file-list>
+		<welcome-file>/index.jsp</welcome-file>
+
+	</welcome-file-list>
+	
+	
+</web-app>
